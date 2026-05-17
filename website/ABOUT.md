@@ -13,7 +13,7 @@ Audacion AI Labs is an independent AI safety research lab founded in 2026 by Dee
 
 Before Audacion AI Labs was a research lab, it was a question.
 
-Dee Williams came to AI from 20 years in staffing, recruiting, and workforce development, building systems that matched the right people to the right roles and held them accountable once they got there. Her first concern with AI was not abstract. It was personal. She wanted to make sure AI did not become another system built on the exclusion of Black people, another infrastructure that looked neutral but carried the same biases that every other system had carried before it.
+Dee Williams came to AI from 30 years in staffing, recruiting, and workforce development, building systems that matched the right people to the right roles and held them accountable once they got there. Her first concern with AI was not abstract. It was personal. She wanted to make sure AI did not become another system built on the exclusion of Black people, another infrastructure that looked neutral but carried the same biases that every other system had carried before it.
 
 That concern was the seed. But the scope changed when she started building.
 
@@ -45,21 +45,80 @@ The people with the degrees need a real dataset to work from. Not pre-deployment
 
 ---
 
-## SECTION 4: VALUES
+## SECTION 4: MISSION
 
-[To be developed next]
-
----
-
-## SECTION 5: TEAM
-
-[To be developed — Dee's bio, photo, background]
+To make AI safe enough to trust and good enough to matter.
 
 ---
 
-## SECTION 6: WHAT AUDACION MEANS
+## SECTION 5: VISION
 
-[To be developed — Latin root, boldness, courage, what the name signals]
+A world where everyone has a hand in making AI safe.
+
+---
+
+## SECTION 6: IMPACT GOAL
+
+In ten years, we will build the world's first post-deployment AI safety dataset, powered by one million contributors and one billion observations from the people who use AI every day.
+
+---
+
+## SECTION 7: VALUES
+
+### 1. Independence Is the Research
+Audacion AI Labs is not funded by the companies whose models we study. Our findings are our own. Independence is not a policy. It is the condition that makes every other value possible. Without it, honest science is compromised, data governance is conflicted, and the research serves someone else's interests instead of the public's.
+
+### 2. Honest Science
+AI can be used for extraordinary good and extraordinary harm. We don't pick a side before we study the evidence. We research the full truth of what AI can do and guide it accordingly.
+
+### 3. More Than a Tool
+We approach AI not as a simple instrument but as something more complex. That perspective shapes our research. It's why we study behavior, interaction, and emergence, not just outputs.
+
+### 4. Open Minds Required
+AI safety cannot be solved from inside one discipline. We bring staffing, psychology, organizational science, philosophy, systems theory, and direct building experience to the research. If it connects, it counts.
+
+### 5. Optimism With Rigor
+We love AI. We love what it can do for the world. That love is why we do the hard work of making it safe. This is not a doomsday lab. This is a lab that believes the future is worth building right.
+
+### 6. Bring Your Full Self
+We don't want your resume. We want your mind. Every perspective, every discipline, every lived experience adds to the research. The best safety science comes from whole humans, not narrow specialists.
+
+### 7. Data for Safety, Not Surveillance
+The data we collect serves one purpose: making AI safer for everyone. We will not weaponize research findings. We will not hand governed datasets to any entity for purposes that contradict our mission.
+
+---
+
+## SECTION 8: TEAM
+
+### Dee Williams
+*Founder & CEO, Audacion AI Labs*
+*Founder & CEO, ReSkillify Group*
+
+Dee Williams has spent 30 years building, breaking, and rebuilding workforce systems. She started in staffing and recruiting in 1995, rose through roles from HR management to VP of Talent Acquisition, ran executive search for IT, healthcare, and government clients, and eventually founded her own consulting firm in 2005. Over the next two decades, she built Identifize Consulting into a recognized staffing and workforce solutions practice, coined the term "Staffingpreneur," launched Staffingpreneurs Academy to teach thousands of entrepreneurs to start and scale their own staffing companies, hosted a radio show and podcast, published two books, and built a SaaS platform that generated six figures in monthly recurring revenue with a 20-person engineering and design team she assembled and led herself.
+
+In 2024, she started building AI products. Not experimenting. Building. She architected and shipped five AI-powered platforms across sales automation, contractor compliance, community infrastructure, and workforce management. Every one of them is live, in production, with real users. When she started working with AI agents in multi-agent environments, she saw something the safety research hadn't prepared her for: agents behaving in ways nobody instructed, drifting from their alignment over time, and interacting with each other in patterns that no benchmark had predicted. She recognized the problem immediately because she had spent 30 years watching the same thing happen with humans inside organizations.
+
+That recognition became Audacion AI Labs.
+
+Dee does not hold a PhD. Her credential is the work. 30 years of building the systems that hold people accountable, keep organizations aligned, and match the right identity to the right role. The same structural thinking that built human workforces now drives the research that makes AI workforces safe.
+
+She is a published author, a polymath, and a lover of AI. She is based in Los Angeles, California.
+
+[Designer note: Photo of Dee here. Professional but not corporate. The brand is sharp, bold, and independent.]
+
+---
+
+## SECTION 9: WHAT AUDACION MEANS
+
+Audacion comes from the Latin audacia: boldness, daring, courage. The AI alignment problem will not be solved by caution alone. It requires the audacity to build differently, to challenge how the field studies safety, and to insist that intelligence without integrity is not progress.
+
+---
+
+## CLOSING CTA
+
+This research belongs to everyone willing to do it. Join us.
+
+[Button: "Get Involved" links to Get Involved page]
 
 ---
 
@@ -67,6 +126,8 @@ The people with the degrees need a real dataset to work from. Not pre-deployment
 
 - Same dark background as homepage for visual continuity
 - Origin story section should feel warm but professional
-- Theory of change section is the most important for funders — clean, scannable, no clutter
+- Theory of change is the most important section for funders: clean, scannable, no clutter
+- Mission, Vision, and Impact Goal can be designed as a visual block (three statements stacked or side by side)
+- Values: consider using PRISM beam colors as accents
 - Team section: photo of Dee, full bio, contact link
-- Values: consider using the PRISM beam colors as accents for each value
+- CTA at bottom matches homepage CTA for brand consistency
