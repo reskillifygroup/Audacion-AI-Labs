@@ -70,7 +70,8 @@ audacion-ai-labs/
 │   ├── FOLLOW.md                   # Newsletter signup
 │   ├── CONTACT.md                  # Contact form and direct emails
 │   ├── PRISM_SUMMIT.md             # PRISM Summit 2027 conference page
-│   └── PAPER_SUBMISSION_GUIDELINES.md  # Call for papers and submission guidelines
+│   ├── PAPER_SUBMISSION_GUIDELINES.md  # Call for papers and submission guidelines
+│   └── DONATE.md                   # Individual donor giving page
 │
 ├── blog/                           # Blog post drafts
 │   └── POST_01_CLAUDE_SLEEP_DRAFT.md
@@ -108,7 +109,8 @@ Five foundational research reports establish the lab's positioning and competiti
 | Follow | Final Draft | Newsletter signup |
 | Contact | Final Draft | Contact form, direct emails, social links |
 | PRISM Summit 2027 | First Draft | Conference page: Sept 15-17 2027, LA, 300 attendees, interest form |
-| Paper Submission Guidelines | First Draft | 4 submission categories, formatting, review process, key dates |
+| Paper Submission Guidelines | First Draft | 5 submission categories, formatting, review process, key dates |
+| Donate | First Draft | Individual giving tiers, recurring giving, transparency, community impact |
 
 ---
 
