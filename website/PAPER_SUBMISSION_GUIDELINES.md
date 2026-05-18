@@ -29,6 +29,9 @@ Preliminary findings, work-in-progress studies, emerging observations, or novel 
 ### Practitioner Reports (4 to 8 pages)
 Case studies, deployment analyses, and real-world experience reports from organizations deploying AI systems. Practitioner reports do not require formal academic methodology but must present structured observations, clear findings, and implications for the field. We value the work over the format.
 
+### Independent Research Reports (4 to 6 pages)
+Original findings from independent researchers, builders, and founders working directly with AI systems. No formal academic methodology required. No organizational affiliation required. If you have been building with AI, observing its behavior in live environments, and have findings that the field needs to hear, this is your category. Submissions must present structured observations, clear findings, and relevance to post-deployment AI safety. Reviewed by the program committee.
+
 ### PRISM Fellow Field Reports (2 to 4 pages)
 PRISM Research Fellows who have contributed 500 or more observations through the citizen science platform may submit structured field reports documenting patterns, anomalies, or behavioral observations from their contributor experience. This category exists because the people closest to the data often see what the researchers miss.
 
@@ -78,7 +81,7 @@ All submissions must follow these formatting guidelines:
 
 **References:** APA 7th edition citation style
 
-**Page limits:** Inclusive of references, figures, and appendices. Full Papers: 8 to 12 pages. Short Papers: 4 to 6 pages. Practitioner Reports: 4 to 8 pages. Fellow Field Reports: 2 to 4 pages.
+**Page limits:** Inclusive of references, figures, and appendices. Full Papers: 8 to 12 pages. Short Papers: 4 to 6 pages. Practitioner Reports: 4 to 8 pages. Independent Research Reports: 4 to 6 pages. Fellow Field Reports: 2 to 4 pages.
 
 **Figures and tables:** Embedded within the text. Figures must be legible in black and white printing.
 
@@ -93,6 +96,8 @@ All submissions must follow these formatting guidelines:
 **Short Papers** undergo single-blind review by the program committee.
 
 **Practitioner Reports** are reviewed by the program committee with emphasis on practical relevance, clarity of observations, and contribution to the applied safety knowledge base.
+
+**Independent Research Reports** are reviewed by the program committee with emphasis on the quality and clarity of observations, originality of findings, and relevance to post-deployment AI safety. No formal academic methodology is required, but submissions must demonstrate structured thinking and clear evidence.
 
 **PRISM Fellow Field Reports** are reviewed by the program committee with guidance from Audacion AI Labs research staff who can contextualize field observations within the broader dataset.
 

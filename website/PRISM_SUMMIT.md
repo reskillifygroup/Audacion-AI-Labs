@@ -78,7 +78,7 @@ Research on emergent behaviors, coordination patterns, and safety dynamics when 
 We also welcome research that spans two or more pillars. Post-deployment AI safety does not live in silos, and neither should the research.
 
 **Who should submit:**
-Academic researchers, independent researchers, industry practitioners, PRISM Research Fellows with substantial field findings, and interdisciplinary teams. We value the work over the credential. If your research contributes to post-deployment AI safety, we want to see it.
+Academic researchers, independent researchers, builders and founders working directly with AI systems, industry practitioners, PRISM Research Fellows with substantial field findings, and interdisciplinary teams. We accept five submission types: Full Research Papers, Short Papers, Practitioner Reports, Independent Research Reports, and PRISM Fellow Field Reports. We value the work over the credential. If your research contributes to post-deployment AI safety, we want to see it.
 
 **Submission timeline and formatting requirements are available on the Paper Submission Guidelines page.**
 
@@ -94,11 +94,11 @@ Academic researchers, independent researchers, industry practitioners, PRISM Res
 | Paper submission deadline | May 15, 2027 |
 | Acceptance notifications | July 1, 2027 |
 | Camera-ready paper deadline | August 1, 2027 |
+| Conference program released | March 1, 2027 |
 | Early registration opens | March 1, 2027 |
 | Early registration closes | June 30, 2027 |
 | Standard registration opens | July 1, 2027 |
 | Volunteer applications open | April 1, 2027 |
-| Conference program released | August 15, 2027 |
 | PRISM Summit 2027 | September 15 to 17, 2027 |
 
 All dates are subject to adjustment. Sign up below to receive updates as dates are confirmed.
@@ -133,7 +133,7 @@ Anything else you want us to know? (optional):
 
 ## PROGRAM
 
-The PRISM Summit 2027 conference program will be released in August 2027.
+The PRISM Summit 2027 conference program will be released in March 2027 alongside the opening of early registration.
 
 The three-day program will include keynote addresses, paper presentation sessions across all five PRISM pillars, workshops, panel discussions, a dedicated PRISM Research Fellow track, sponsor activations, and community events.
 
