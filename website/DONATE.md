@@ -19,21 +19,21 @@ This is not charity. This is an investment in the safety of every AI system you 
 
 ---
 
-## WHAT YOUR DONATION FUNDS
+## WHERE THE MONEY GOES
 
 ### Every dollar has a job.
 
-**$25 funds the processing of 500 citizen science observations.** Real behavioral data from real AI users around the world, transformed into usable research by our analysts and AI-augmented pipeline.
+Audacion AI Labs is committed to transparency. We publish an annual financial summary showing how donor funds are allocated across four categories:
 
-**$100 funds one hour of pillar research.** A researcher working across one of the five PRISM pillars: Post-Deployment Behavior, Runtime Research, Interaction Dynamics, Substrate Governance, or Multi-Agent Safety. Turning raw observations into published findings the entire field can build on.
+**Research (target: 50% or more of all funds):** Researcher compensation, publication costs, peer review, data analysis, and research tools. This is why the lab exists. The majority of every dollar goes here.
 
-**$500 funds a week of community infrastructure.** Discord, contributor recognition, fellowship administration, and the systems that connect one million contributors to each other and to the lab.
+**Technology (target: 20%):** Citizen science platform development, browser extension, API layer, data pipeline, and infrastructure. The tools that make one billion observations possible.
 
-**$1,000 funds the publication of one open-access research paper.** Peer review coordination, editorial review, formatting, and open-access hosting so the findings are free to every researcher, policymaker, and organization on the planet.
+**Community (target: 15%):** PRISM Research Fellowship administration, Discord, events, contributor recognition, and outreach. The systems that connect one million contributors to each other and to the lab.
 
-**$5,000 funds a PRISM Research Fellow for one month.** A dedicated researcher working full time on post-deployment AI safety, producing science that does not exist anywhere else.
+**Operations (target: 15%):** Lab administration, legal, accounting, and organizational overhead.
 
-**$10,000+ funds a named research initiative.** A specific study, dataset expansion, or tool development with your name attached to the output. Contact us to discuss.
+We will never spend more on operations than on community. The research comes first. Always.
 
 ---
 
@@ -60,9 +60,9 @@ You are building the future alongside us. Founder's Circle members receive every
 
 Monthly giving is the most powerful way to support the lab. A predictable revenue base allows us to plan research programs, hire staff, and commit to multi-year studies that one-time donations cannot sustain.
 
-**$10/month** processes 6,000 observations per year.
-**$25/month** funds 3 hours of pillar research per month.
-**$50/month** funds a week of community infrastructure every month.
+**$10/month** keeps the research moving forward, one month at a time.
+**$25/month** puts you in the Researcher tier with sustained annual impact.
+**$50/month** puts you in the Fellow tier with sustained annual impact.
 **$100/month** puts you in the Architect tier with sustained annual impact.
 
 [Button: "Give Monthly"]
@@ -70,31 +70,15 @@ Monthly giving is the most powerful way to support the lab. A predictable revenu
 
 ---
 
-## WHERE THE MONEY GOES
-
-Audacion AI Labs is committed to transparency. We publish an annual financial summary showing how donor funds are allocated across four categories:
-
-**Research (target: 50% or more of all funds):** Researcher compensation, publication costs, peer review, data analysis, and research tools.
-
-**Technology (target: 20%):** Citizen science platform development, browser extension, API layer, data pipeline, and infrastructure.
-
-**Community (target: 15%):** PRISM Research Fellowship administration, Discord, events, contributor recognition, and outreach.
-
-**Operations (target: 15%):** Lab administration, legal, accounting, and organizational overhead.
-
-We will never spend more on operations than on community. The research comes first. Always.
-
----
-
 ## TAX INFORMATION
 
-Audacion AI Labs is in the process of establishing its formal nonprofit structure. Tax-deductible status information will be updated on this page as it is confirmed. If you have questions about the deductibility of your contribution, contact us at donate@audacionailabs.com.
+All donations to Audacion AI Labs are tax-deductible. A receipt will be provided for your records. If you have questions about your contribution, contact us at donate@audacionailabs.com.
 
 ---
 
 ## COMMUNITY IMPACT
 
-A portion of all donations will be directed toward Foundational Black American Technology Initiatives. Audacion AI Labs believes that the future of AI safety must include the communities that have been most excluded from the technology industry. Details on our community impact partnerships will be shared as they are formalized.
+Audacion AI Labs believes that the future of AI safety must include the communities that have been most excluded from the technology industry. A portion of all donations is directed toward [BGC](https://www.wearebgc.org/) (formerly Black Girls CODE), supporting their mission to empower young women of color through technology education, coding, and innovation. When we build the future of AI safety, we build it for everyone.
 
 ---
 
@@ -125,10 +109,9 @@ Want to follow our work? Follow the research.
 
 - Same dark background as rest of site
 - Giving tiers should be visually distinct: cards or rows with clear tier names and benefits
-- The "What Your Donation Funds" section works best as a vertical stack with dollar amounts bold and left-aligned
-- Recurring giving section should have prominent toggle between Monthly and One-time
 - Where the Money Goes section could use a simple horizontal bar or pie visual showing the 50/20/15/15 split
+- Recurring giving section should have prominent toggle between Monthly and One-time
 - Form should be clean with preset amount buttons and a custom amount field
 - Consider a live progress bar toward an annual fundraising goal once one is set
-- Community Impact section should be visible but not dominant: positioned after the core donation content
-- Tax information section should be honest and clean: do not overstate what is not yet confirmed
+- Community Impact section should be visible and warm: BGC logo if available
+- Tax information section: clean and simple
