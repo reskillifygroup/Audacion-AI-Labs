@@ -10,7 +10,7 @@ Audacion AI Labs is an independent AI safety research lab studying alignment, be
 
 Less than 2% of AI safety research studies AI after deployment. We study in the space the other 98% leaves empty.
 
-This repository contains the lab's research foundation, website content, operational planning, and published writing. Audacion AI Labs is a brand under ReSkillify Group (RSG), alongside HootHire, Staffingpreneurs Academy, PitchCloseAI, MeetMindz, and Closiqo.
+This repository contains the lab's research foundation, website content, operational planning, and published writing.
 
 ---
 
@@ -138,16 +138,5 @@ Audacion AI Labs occupies a position no other lab holds:
 
 ---
 
-## Related Repositories
-
-| Repo | Purpose |
-|------|---------|
-| `hoothire-core` | Governance, agent identity, and frameworks for the 54-agent Audacia Civilization |
-| `rsg-products` | Corporate-facing product content for RSG brands |
-| `audacion-ai-labs` | This repo: research lab foundation, website content, operations |
-
----
-
 *Founded 2026 by Dee Williams | Los Angeles, California*
-*Audacion AI Labs is a brand under ReSkillify Group*
 *"To make AI safe enough to trust and good enough to matter."*
