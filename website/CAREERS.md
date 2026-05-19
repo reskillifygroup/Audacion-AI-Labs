@@ -70,7 +70,7 @@ The AI Advisory Council advises. The Human Advisory Board and the Founder govern
 
 ## OPEN ROLES
 
-All roles listed below are funded upon securing grant or partnership support. If you are interested in contributing to any of these functions in a volunteer capacity while funding is being secured, we welcome that conversation. 47 roles across 10 departments. One mission.
+All roles listed below are funded upon securing grant or partnership support. If you are interested in contributing to any of these functions in a volunteer capacity while funding is being secured, we welcome that conversation. 47 roles across 11 departments. One mission.
 
 ---
 
@@ -160,7 +160,7 @@ Hiring Phase: Year 2 | [Read the full description]
 
 ---
 
-### PARTNERSHIPS AND SALES (7 roles)
+### PARTNERSHIPS AND SALES (5 roles)
 
 **Head of Strategic Partnerships**
 Builds and manages the corporate relationships that fund and sustain the lab's research mission. Owns the corporate partnership pipeline: identifying organizations that need access to post-deployment AI safety research, building the value proposition, and closing annual memberships. Oversees the sales team and builds the function from the ground up.
@@ -181,6 +181,10 @@ Hiring Phase: Year 1 | Compensation: Base + Commission | [Read the full descript
 **Events and Sponsorship Sales Representative**
 Sells sponsorships, exhibit space, and premium attendance packages for the PRISM Summit, virtual conferences, golf tournaments, roundtables, think tanks, hackathons, and retreats. Builds relationships with corporate sponsors who want visibility in the AI safety community. Manages the sponsor pipeline across the lab's full event calendar.
 Hiring Phase: Year 1 | Compensation: Base + Commission | [Read the full description]
+
+---
+
+### POLICY AND EXTERNAL RELATIONS (2 roles)
 
 **Head of AI Policy and Government Relations**
 Builds the lab's presence in the policy and regulatory landscape. Develops relationships with congressional offices, federal agencies (NIST, AISI), state regulators, and international AI governance bodies. Ensures that the lab's research informs the rules being written for AI deployment. This role is how the lab punches above its weight in Washington and beyond.
