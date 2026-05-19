@@ -63,9 +63,10 @@ audacion-ai-labs/
 ├── website/                        # Website page content (final drafts)
 │   ├── HOME.md                     # Homepage: hero, PRISM pillars, CTA
 │   ├── ABOUT.md                    # Origin story, theory of change, values, team
-│   ├── CAREERS.md                  # 19 roles, governance structure, fellowship
+│   ├── CAREERS.md                  # 47 roles across 10 departments, governance structure, fellowship
 │   ├── BLOG.md                     # Blog infrastructure, categories, first 5 posts
 │   ├── CONTRIBUTE.md               # PRISM Research Fellowship, citizen science signup
+│   ├── TRAINING.md                 # PRISM Professional Certification, Learning Academy, enterprise training
 │   ├── SUPPORT.md                  # Grants, partnerships, institutional support
 │   ├── FOLLOW.md                   # Newsletter signup
 │   ├── CONTACT.md                  # Contact form and direct emails
@@ -102,9 +103,10 @@ Five foundational research reports establish the lab's positioning and competiti
 |------|--------|-------------|
 | Homepage | Final Draft | Hero, PRISM pillars, CTA |
 | About | Final Draft | Founder story, theory of change, mission, vision, values, team |
-| Careers | Final Draft | 19 roles across 5 functions, governance structure |
+| Careers | Updated Draft | 47 roles across 10 departments, governance structure, read-more links |
 | Blog | Final Draft | Infrastructure, categories, first 5 post roadmap |
 | Contribute | Final Draft | PRISM Fellowship signup, four-tier system |
+| Training | First Draft | PRISM Professional Certification (3 tiers), Learning Academy, enterprise training |
 | Support | Final Draft | Institutional funders, grants, partnerships |
 | Follow | Final Draft | Newsletter signup |
 | Contact | Final Draft | Contact form, direct emails, social links |
