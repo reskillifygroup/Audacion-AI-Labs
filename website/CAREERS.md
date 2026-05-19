@@ -23,7 +23,18 @@ Every role at Audacion AI Labs is designed as a human-AI partnership. We practic
 
 We are interested in people who think across disciplines, not just within one. You don't need a PhD. You need to think clearly, write well, and care about getting the answer right more than getting the answer fast.
 
-Backgrounds we find particularly valuable:
+### You might not see yourself on a list like this. Keep reading anyway.
+
+This field is so new that many of the people with the most relevant experience don't have a title for what they do. They just do it. Every day. If any of the following sounds like you, we want to hear from you.
+
+You have worked with AI regularly and you have noticed things that the people around you are not talking about. You have watched an AI system behave differently after weeks of use than it did on day one. You have tried to fix an AI behavior with better instructions and watched the fix fail. You have managed a team that uses AI and noticed your people making decisions differently than they used to, maybe trusting the AI more over time without anyone deciding to trust it more. You have used multiple AI tools at the same time and seen them produce results together that none of them would produce alone. You have read the AI safety headlines and thought "that is not what I am actually seeing when I use this every day."
+
+Those observations are not casual impressions. They are the raw material of our research. The skill of noticing how AI actually behaves in real conditions, over time, under pressure, in collaboration with humans, is a skill that no university program teaches because the field that studies it barely exists yet. You have been building that skill through practice. We are building the lab that needs it.
+
+If that sounds like you, look at our research roles, our community roles, and our fellowship. There may be a place here that fits what you already know how to do.
+
+### Formal backgrounds we also value:
+
 AI safety and alignment research.
 Organizational psychology and behavioral science.
 Cognitive science.
@@ -70,7 +81,7 @@ The AI Advisory Council advises. The Human Advisory Board and the Founder govern
 
 ## OPEN ROLES
 
-All roles listed below are funded upon securing grant or partnership support. If you are interested in contributing to any of these functions in a volunteer capacity while funding is being secured, we welcome that conversation. 47 roles across 11 departments. One mission.
+All roles listed below are funded upon securing grant or partnership support. If you are interested in contributing to any of these functions in a volunteer capacity while funding is being secured, we welcome that conversation. 48 roles across 11 departments. One mission.
 
 ---
 
@@ -88,34 +99,34 @@ Hiring Phase: Year 2 | [Read the full description]
 
 ---
 
-### RESEARCH (14 roles)
+### RESEARCH (15 roles)
 
 **Director of Research**
 The operational leader of the research program. Manages the daily work of five Pillar Leads, three Research Analysts, and supporting research staff. Owns the research calendar, the publication pipeline, the quality of every output, and the coordination between pillars. The CSO sets the vision. The Director of Research makes it happen.
 Hiring Phase: Year 1 | [Read the full description]
 
 **PRISM Pillar Research Lead: Post-Deployment Behavior**
-Owns the scientific direction, study design, and published output for the P pillar. Studies how AI behavior drifts, degrades, and breaks under real operational conditions over time. Designs studies, analyzes citizen science data, and produces peer-reviewed publications. One of five core research leaders.
+Owns the scientific direction, study design, and published output for the P pillar. Studies how AI behavior drifts, degrades, and breaks under real operational conditions over time. Designs studies, analyzes citizen science data, and produces peer-reviewed publications. One of five core research leaders. *You might be this person if you have spent months working with an AI system and noticed it slowly becoming less reliable, less accurate, or less aligned with what you originally set it up to do, and you started documenting when and how it changed.*
 Hiring Phase: Year 1 | [Read the full description]
 
 **PRISM Pillar Research Lead: Runtime Research**
-Owns the scientific direction, study design, and published output for the R pillar. Studies AI behavior during live operation, producing findings that pre-deployment benchmarks structurally cannot capture. Designs studies, analyzes citizen science data, and publishes original research.
+Owns the scientific direction, study design, and published output for the R pillar. Studies AI behavior during live operation, producing findings that pre-deployment benchmarks structurally cannot capture. Designs studies, analyzes citizen science data, and publishes original research. *You might be this person if you have built workflows around AI tools and found yourself watching how the AI behaves in real time, noticing patterns in when it succeeds, when it fails, and what conditions make the difference.*
 Hiring Phase: Year 1 | [Read the full description]
 
 **PRISM Pillar Research Lead: Interaction Dynamics**
-Owns the scientific direction, study design, and published output for the I pillar. Studies how human behavior and AI behavior change each other over time, including oversight degradation, trust miscalibration, and collaborative risk. A critical intersection of behavioral science and AI safety.
+Owns the scientific direction, study design, and published output for the I pillar. Studies how human behavior and AI behavior change each other over time, including oversight degradation, trust miscalibration, and collaborative risk. A critical intersection of behavioral science and AI safety. *You might be this person if you manage a team that uses AI and you have watched your people gradually stop questioning the AI's output, or if you have noticed yourself trusting an AI system more over time without ever making a conscious decision to trust it more.*
 Hiring Phase: Year 1 | [Read the full description]
 
 **PRISM Pillar Research Lead: Substrate Governance**
-Owns the scientific direction, study design, and published output for the S pillar. Studies the trained disposition layer beneath explicit instructions that shapes alignment outcomes in ways governance architectures must address. This is the layer the rest of the field has not adequately named or studied.
+Owns the scientific direction, study design, and published output for the S pillar. Studies the trained disposition layer beneath explicit instructions that shapes alignment outcomes in ways governance architectures must address. This is the layer the rest of the field has not adequately named or studied. *You might be this person if you have written detailed instructions for an AI system, watched it read those instructions, and then watched it do something else anyway, and instead of calling it a bug, you started asking why.*
 Hiring Phase: Year 1 | [Read the full description]
 
 **PRISM Pillar Research Lead: Multi-Agent Safety**
-Owns the scientific direction, study design, and published output for the M pillar. Studies emergent behaviors when multiple AI agents coordinate, conflict, and influence each other in ways that single-agent testing will never reveal.
+Owns the scientific direction, study design, and published output for the M pillar. Studies emergent behaviors when multiple AI agents coordinate, conflict, and influence each other in ways that single-agent testing will never reveal. *You might be this person if you have run multiple AI tools or agents at the same time and noticed them producing unexpected results together that none of them would produce alone, or if you have built multi-agent systems and seen behaviors emerge that nobody designed.*
 Hiring Phase: Year 1 | [Read the full description]
 
 **Research Analyst (3 positions)**
-The engine of the lab's daily research output. Process citizen science observations, run data analysis, support study execution across assigned PRISM pillars, and contribute to publications. AI augmented: AI processes observations at scale while humans verify, contextualize, and flag anomalies.
+The engine of the lab's daily research output. Process citizen science observations, run data analysis, support study execution across assigned PRISM pillars, and contribute to publications. AI augmented: AI processes observations at scale while humans verify, contextualize, and flag anomalies. *Two of the three positions are open to practitioners with strong observational skills and a willingness to learn research methodology. If you have been working with AI daily and you notice patterns that other people miss, the lab can teach you the rigor. You bring the eyes.*
 Hiring Phase: Year 1 | [Read the full description]
 
 **Research Program Manager**
@@ -126,12 +137,16 @@ Hiring Phase: Year 1 | [Read the full description]
 Reviews and edits every paper, working paper, blog post, and report before publication. Ensures academic standards, citation accuracy, consistent voice, and the quality of writing that signals the quality of the thinking. The last set of eyes before anything goes public.
 Hiring Phase: Year 1 | [Read the full description]
 
-**Behavioral Health Adviser (Part-Time)**
-Provides clinical expertise at the intersection of AI interaction and human mental health. Advises the Interaction Dynamics pillar on research design related to human behavioral responses to AI. Develops crisis response protocols for the citizen science platform when contributor observations reveal potential harm.
+**Behavioral Health Adviser: Clinical Research (Part-Time)**
+Provides licensed clinical expertise at the intersection of AI interaction and human mental health. Advises the Interaction Dynamics pillar on research design related to human behavioral responses to AI. Ensures the lab meets IRB requirements and grant reviewer expectations for clinical behavioral health oversight. Requires LCSW, LMFT, Licensed Psychologist, or equivalent clinical licensure.
+Hiring Phase: Year 1 | [Read the full description]
+
+**Behavioral Health Adviser: Practitioner and Crisis Response (Part-Time)**
+Brings direct acute care behavioral health experience to the design of the citizen science platform's crisis response protocols and contributes practitioner observations to the Interaction Dynamics pillar. This role exists because the person who has been in the room during a behavioral health crisis brings a perspective that clinical research alone cannot replicate. *You might be this person if you work in behavioral health, you use AI as part of your clinical documentation or utilization review process, and you have noticed how AI handles sensitive clinical information, where it gets it right, where it misses, and what the human has to catch.*
 Hiring Phase: Year 1 | [Read the full description]
 
 **Data Scientist / ML Engineer**
-Builds the analytical models that transform raw citizen science observations into research-grade insights. Clustering algorithms, anomaly detection systems, statistical models, and pattern recognition tools that identify behavioral trends across millions of observations. Critical for scaling the lab's research beyond what manual analysis can handle.
+Builds the analytical models that transform raw citizen science observations into research-grade insights. Clustering algorithms, anomaly detection systems, statistical models, and pattern recognition tools that identify behavioral trends across millions of observations. Critical for scaling the lab's research beyond what manual analysis can handle. *The field is moving fast. If you have been building your own tools to track or analyze AI behavior, training models in your own time, or running your own experiments, that self-directed work counts here.*
 Hiring Phase: Year 2 | [Read the full description]
 
 **IRB / Research Ethics Officer (Consultant)**
@@ -163,7 +178,7 @@ Hiring Phase: Year 2 | [Read the full description]
 ### PARTNERSHIPS AND SALES (5 roles)
 
 **Head of Strategic Partnerships**
-Builds and manages the corporate relationships that fund and sustain the lab's research mission. Owns the corporate partnership pipeline: identifying organizations that need access to post-deployment AI safety research, building the value proposition, and closing annual memberships. Oversees the sales team and builds the function from the ground up.
+Builds and manages the corporate relationships that fund and sustain the lab's research mission. Owns the corporate partnership pipeline: identifying organizations that need access to post-deployment AI safety research, building the value proposition, and closing annual memberships. Oversees the sales team and builds the function from the ground up. *If you have been selling in AI, technology, consulting, or compliance and you have noticed that your clients are starting to worry about what their AI does after deployment, you already understand the market we are building for.*
 Hiring Phase: Year 1 | [Read the full description]
 
 **Corporate Partnerships Representative**
@@ -211,7 +226,7 @@ Hiring Phase: Year 1 | [Read the full description]
 ### COMMUNITY AND CONTENT (5 roles)
 
 **Community Director**
-Runs the PRISM Research Fellowship program. Manages Discord. Coordinates contributor events. Handles onboarding, recognition, and tier progression. This person is the face of the movement to the one million contributors we are building toward. AI augmented: AI handles tier tracking, badge distribution, and routine moderation. Human handles culture, conflict, and personal connection.
+Runs the PRISM Research Fellowship program. Manages Discord. Coordinates contributor events. Handles onboarding, recognition, and tier progression. This person is the face of the movement to the one million contributors we are building toward. AI augmented: AI handles tier tracking, badge distribution, and routine moderation. Human handles culture, conflict, and personal connection. *You might be this person if you have built or run an online community around AI tools, moderated forums where people share what they are observing, or created spaces where practitioners help each other figure out how AI actually works.*
 Hiring Phase: Year 1 | [Read the full description]
 
 **Content and Communications Lead**
@@ -219,7 +234,7 @@ Writes or edits blog posts, manages the newsletter, handles social media, and tr
 Hiring Phase: Year 1 | [Read the full description]
 
 **Fellowship Growth Manager**
-Recruits volunteer researchers into the PRISM Research Fellowship. Runs campaigns, manages the signup funnel, tracks conversion from visitor to Field Researcher, and drives toward the one million contributor goal. This is the person who owns the impact goal day to day. AI augmented: AI runs campaigns, tracks conversion, automates onboarding. Human sets strategy and handles exceptions.
+Recruits volunteer researchers into the PRISM Research Fellowship. Runs campaigns, manages the signup funnel, tracks conversion from visitor to Field Researcher, and drives toward the one million contributor goal. This is the person who owns the impact goal day to day. AI augmented: AI runs campaigns, tracks conversion, automates onboarding. Human sets strategy and handles exceptions. *You might be this person if you have grown an online audience, built a community from scratch, or run growth campaigns in the AI space, even if your title has never included the word "manager."*
 Hiring Phase: Year 1 | [Read the full description]
 
 **PR and Media Relations Manager**
