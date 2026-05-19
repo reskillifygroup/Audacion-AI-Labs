@@ -63,13 +63,15 @@ audacion-ai-labs/
 ├── website/                        # Website page content (final drafts)
 │   ├── HOME.md                     # Homepage: hero, PRISM pillars, CTA
 │   ├── ABOUT.md                    # Origin story, theory of change, values, team
-│   ├── CAREERS.md                  # 47 roles across 10 departments, governance structure, fellowship
+│   ├── CAREERS.md                  # 47 roles across 11 departments, governance structure, fellowship
 │   ├── BLOG.md                     # Blog infrastructure, categories, first 5 posts
 │   ├── CONTRIBUTE.md               # PRISM Research Fellowship, citizen science signup
 │   ├── TRAINING.md                 # PRISM Professional Certification, Learning Academy, enterprise training
+│   ├── PARTNERS.md                 # Corporate research partnership tiers, benefits, conversion
 │   ├── SUPPORT.md                  # Grants, partnerships, institutional support
 │   ├── FOLLOW.md                   # Newsletter signup
 │   ├── CONTACT.md                  # Contact form and direct emails
+│   ├── PRESS.md                    # Newsroom, media kit, boilerplate, press releases, speaking
 │   ├── PRISM_SUMMIT.md             # PRISM Summit 2027 conference page
 │   ├── PAPER_SUBMISSION_GUIDELINES.md  # Call for papers and submission guidelines
 │   └── DONATE.md                   # Individual donor giving page
@@ -103,13 +105,15 @@ Five foundational research reports establish the lab's positioning and competiti
 |------|--------|-------------|
 | Homepage | Final Draft | Hero, PRISM pillars, CTA |
 | About | Final Draft | Founder story, theory of change, mission, vision, values, team |
-| Careers | Updated Draft | 47 roles across 10 departments, governance structure, read-more links |
+| Careers | Updated Draft | 47 roles across 11 departments, governance structure, read-more links |
 | Blog | Final Draft | Infrastructure, categories, first 5 post roadmap |
 | Contribute | Final Draft | PRISM Fellowship signup, four-tier system |
 | Training | First Draft | PRISM Professional Certification (3 tiers), Learning Academy, enterprise training |
+| Partners | First Draft | Corporate research partnership tiers, benefits, pricing, inquiry CTA |
 | Support | Final Draft | Institutional funders, grants, partnerships |
 | Follow | Final Draft | Newsletter signup |
 | Contact | Final Draft | Contact form, direct emails, social links |
+| Press | First Draft | Newsroom, boilerplate, media kit, story ideas, speaking, press releases |
 | PRISM Summit 2027 | First Draft | Conference page: Sept 15-17 2027, LA, 300 attendees, interest form |
 | Paper Submission Guidelines | First Draft | 5 submission categories, formatting, review process, key dates |
 | Donate | First Draft | Individual giving tiers, recurring giving, transparency, community impact |
