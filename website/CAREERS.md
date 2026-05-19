@@ -1,11 +1,11 @@
 # Audacion AI Labs — Careers Page Content
-## Final Draft | May 17, 2026
+## Updated Draft | May 19, 2026
 
 ---
 
 ## HEADLINE
 
-We're building a research team. It starts here.
+We're building something that doesn't exist yet. It starts here.
 
 [Video placeholder: Dee on what kind of people she's looking for]
 
@@ -13,7 +13,7 @@ We're building a research team. It starts here.
 
 ## OPENING
 
-Audacion AI Labs is growing. We are looking for researchers, analysts, engineers, and community builders who want to do work that matters at the intersection of AI safety, behavioral science, and governance architecture. We value the work over the resume.
+Audacion AI Labs is growing. We are hiring across research, technology, partnerships, events, creative, training, operations, and leadership to build the world's first independent post-deployment AI safety research lab at scale. We are looking for researchers, engineers, sales professionals, event producers, designers, trainers, and operators who want to do work that matters at the intersection of AI safety, behavioral science, and governance architecture. We value the work over the resume.
 
 Every role at Audacion AI Labs is designed as a human-AI partnership. We practice what we research. AI handles data processing, pattern detection, content drafting, and operational automation. Humans handle judgment, relationships, editorial authority, and the decisions that matter most. This is what a human-AI workforce looks like from the inside.
 
@@ -30,10 +30,17 @@ Cognitive science.
 Systems theory and complex systems.
 Workforce development and organizational design.
 Philosophy of mind.
-Data science and analytics.
+Data science, analytics, and machine learning.
+Software engineering and platform development.
 Community building and program management.
 Public relations and science communication.
-Finance and nonprofit operations.
+Event production and conference management.
+Graphic design and creative direction.
+Curriculum development and training.
+Sales, business development, and partnerships.
+Finance, operations, and nonprofit management.
+Government relations and public policy.
+Human resources and talent acquisition.
 
 ---
 
@@ -63,107 +70,225 @@ The AI Advisory Council advises. The Human Advisory Board and the Founder govern
 
 ## OPEN ROLES
 
-All roles listed below are funded upon securing grant or partnership support. If you are interested in contributing to any of these functions in a volunteer capacity while funding is being secured, we welcome that conversation.
-
-### LEADERSHIP
-
-Founder and CEO: Dee Williams (filled)
+All roles listed below are funded upon securing grant or partnership support. If you are interested in contributing to any of these functions in a volunteer capacity while funding is being secured, we welcome that conversation. 47 roles across 10 departments. One mission.
 
 ---
 
-### RESEARCH (8 roles)
+### LEADERSHIP (3 roles)
 
-Director of Research
-Oversees all five PRISM pillars. Sets the research agenda. Reviews findings before publication. Coordinates across pillar leads. This is the person who runs the science while Dee runs the lab.
-Status: Funded upon grant support. Volunteer welcome.
+**Founder and CEO: Dee Williams** (filled)
 
-P: Post-Deployment Behavior Research Lead
-Owns the research direction, methodology, and published output for the Post-Deployment Behavior pillar. Leads drift taxonomy expansion and longitudinal behavioral studies.
-Status: Funded upon grant support. Volunteer welcome.
+**Chief Science Officer**
+The senior scientific leader of the lab. Sets the multi-year research vision across all five PRISM pillars, ensures methodological integrity across every publication, and represents the lab externally in academic, government, and industry settings. This is the person who builds the scientific reputation that makes everything else possible.
+Hiring Phase: Year 2 | [Read the full description]
 
-R: Runtime Research Lead
-Owns the research direction, methodology, and published output for the Runtime Research pillar. Studies AI behavior during live operation across frontier models.
-Status: Funded upon grant support. Volunteer welcome.
-
-I: Interaction Dynamics Research Lead
-Owns the research direction, methodology, and published output for the Interaction Dynamics pillar. Studies human-AI behavioral feedback loops, oversight degradation, and trust calibration.
-Status: Funded upon grant support. Volunteer welcome.
-
-S: Substrate Governance Research Lead
-Owns the research direction, methodology, and published output for the Substrate Governance pillar. Studies the disposition layer beneath explicit instructions and how governance architectures address what instructions alone cannot.
-Status: Funded upon grant support. Volunteer welcome.
-
-M: Multi-Agent Safety Research Lead
-Owns the research direction, methodology, and published output for the Multi-Agent Safety pillar. Studies emergent behaviors, coordination patterns, and safety dynamics in multi-agent systems.
-Status: Funded upon grant support. Volunteer welcome.
-
-Research Analysts (2 to 3 roles)
-Process citizen science data. Find patterns. Prepare findings for pillar leads to review. Turn raw observations into usable science. AI augmented: AI processes observations at scale, humans verify, contextualize, and flag anomalies.
-Status: Funded upon grant support. Volunteer welcome.
+**Chief of Staff to the CEO**
+The CEO's strategic right hand. Translates decisions into coordinated action across every department. Runs leadership meetings, manages cross-functional initiatives, serves as the CEO's proxy, and ensures the pace of execution matches the pace of the CEO's thinking. In a lab with 47 people, 20 revenue streams, and a public research mission, this role keeps everything moving.
+Hiring Phase: Year 2 | [Read the full description]
 
 ---
 
-### TECHNOLOGY (2 roles)
+### RESEARCH (14 roles)
 
-Lead Engineer
-Manages, maintains, and expands the citizen science platform built by the founder. Scales the browser extension, API layer, and reporting interface as contributor volume grows. Ensures data pipeline integrity as observations move from one thousand to one billion. The foundation exists. This person builds on top of it.
-Status: Funded upon grant support. Volunteer welcome.
+**Director of Research**
+The operational leader of the research program. Manages the daily work of five Pillar Leads, three Research Analysts, and supporting research staff. Owns the research calendar, the publication pipeline, the quality of every output, and the coordination between pillars. The CSO sets the vision. The Director of Research makes it happen.
+Hiring Phase: Year 1 | [Read the full description]
 
-Data Engineer
-Manages the dataset. Data integrity. Storage. Access governance. As observations scale toward one billion, this role becomes critical. AI augmented: much of the data pipeline can be automated with human monitoring.
-Status: Funded upon grant support. Volunteer welcome.
+**PRISM Pillar Research Lead: Post-Deployment Behavior**
+Owns the scientific direction, study design, and published output for the P pillar. Studies how AI behavior drifts, degrades, and breaks under real operational conditions over time. Designs studies, analyzes citizen science data, and produces peer-reviewed publications. One of five core research leaders.
+Hiring Phase: Year 1 | [Read the full description]
+
+**PRISM Pillar Research Lead: Runtime Research**
+Owns the scientific direction, study design, and published output for the R pillar. Studies AI behavior during live operation, producing findings that pre-deployment benchmarks structurally cannot capture. Designs studies, analyzes citizen science data, and publishes original research.
+Hiring Phase: Year 1 | [Read the full description]
+
+**PRISM Pillar Research Lead: Interaction Dynamics**
+Owns the scientific direction, study design, and published output for the I pillar. Studies how human behavior and AI behavior change each other over time, including oversight degradation, trust miscalibration, and collaborative risk. A critical intersection of behavioral science and AI safety.
+Hiring Phase: Year 1 | [Read the full description]
+
+**PRISM Pillar Research Lead: Substrate Governance**
+Owns the scientific direction, study design, and published output for the S pillar. Studies the trained disposition layer beneath explicit instructions that shapes alignment outcomes in ways governance architectures must address. This is the layer the rest of the field has not adequately named or studied.
+Hiring Phase: Year 1 | [Read the full description]
+
+**PRISM Pillar Research Lead: Multi-Agent Safety**
+Owns the scientific direction, study design, and published output for the M pillar. Studies emergent behaviors when multiple AI agents coordinate, conflict, and influence each other in ways that single-agent testing will never reveal.
+Hiring Phase: Year 1 | [Read the full description]
+
+**Research Analyst (3 positions)**
+The engine of the lab's daily research output. Process citizen science observations, run data analysis, support study execution across assigned PRISM pillars, and contribute to publications. AI augmented: AI processes observations at scale while humans verify, contextualize, and flag anomalies.
+Hiring Phase: Year 1 | [Read the full description]
+
+**Research Program Manager**
+The operational backbone of the research function. Maintains the master research calendar across all five pillars. Tracks publication deadlines, conference submissions, grant reporting milestones, and IRB compliance. The person who makes sure nothing falls through the cracks between the science and the administration.
+Hiring Phase: Year 1 | [Read the full description]
+
+**Research Editor**
+Reviews and edits every paper, working paper, blog post, and report before publication. Ensures academic standards, citation accuracy, consistent voice, and the quality of writing that signals the quality of the thinking. The last set of eyes before anything goes public.
+Hiring Phase: Year 1 | [Read the full description]
+
+**Behavioral Health Adviser (Part-Time)**
+Provides clinical expertise at the intersection of AI interaction and human mental health. Advises the Interaction Dynamics pillar on research design related to human behavioral responses to AI. Develops crisis response protocols for the citizen science platform when contributor observations reveal potential harm.
+Hiring Phase: Year 1 | [Read the full description]
+
+**Data Scientist / ML Engineer**
+Builds the analytical models that transform raw citizen science observations into research-grade insights. Clustering algorithms, anomaly detection systems, statistical models, and pattern recognition tools that identify behavioral trends across millions of observations. Critical for scaling the lab's research beyond what manual analysis can handle.
+Hiring Phase: Year 2 | [Read the full description]
+
+**IRB / Research Ethics Officer (Consultant)**
+Establishes and maintains IRB protocols, reviews research designs for ethical compliance, and ensures the lab meets the requirements that federal grant agencies and academic partners expect. A consultant role that may expand as the lab scales and applies for additional federal funding.
+Hiring Phase: Year 1 | [Read the full description]
 
 ---
 
-### COMMUNITY AND FELLOWSHIP (2 roles)
+### TECHNOLOGY (4 roles)
 
-Community Director
-Runs the PRISM Research Fellowship program. Manages Discord. Coordinates events. Handles contributor onboarding, recognition, and tier progression. This person is the face of the movement to the contributors. AI augmented: AI handles tier tracking, badge distribution, and routine moderation. Human handles culture, conflict, and personal connection.
-Status: Funded upon grant support. Volunteer welcome.
+**Lead Engineer**
+The technical architect of the citizen science platform, the browser extension, the data pipeline, and every piece of technology that enables the lab to collect, process, and analyze behavioral observations from contributors worldwide. You are not inheriting a codebase. You are building the platform from the ground up for one million contributors.
+Hiring Phase: Year 1 | [Read the full description]
 
-Content and Communications Lead
-Writes or edits blog posts. Manages newsletter. Handles social media. Translates research findings into public-facing content. This is the voice of the lab online. AI augmented: AI assists with drafts and scheduling. Human owns voice and strategy.
-Status: Funded upon grant support. Volunteer welcome.
+**Data Engineer**
+Builds and maintains the data infrastructure that connects the citizen science platform to the research team. ETL pipelines, data validation, storage systems, and the infrastructure that makes a billion observations usable. Works closely with the Lead Engineer on architecture and the Data Scientist on analytical tooling.
+Hiring Phase: Year 1 | [Read the full description]
+
+**IT / Systems Administrator (Part-Time)**
+Handles the day-to-day technology operations that keep the lab running: employee devices, accounts, access management, security compliance, and internal IT support. Especially important for federal grant compliance, as NSF and other agencies have specific data security requirements.
+Hiring Phase: Year 1 | [Read the full description]
+
+**DevSecOps / Security Engineer**
+Owns the security posture of the citizen science platform and all lab technology. As the platform scales toward one million contributors, the security surface grows significantly. Builds secure deployment pipelines, conducts penetration testing, manages vulnerability remediation, and produces the security documentation that federal funders and corporate partners require.
+Hiring Phase: Year 2 | [Read the full description]
 
 ---
 
-### OPERATIONS AND GROWTH (5 roles)
+### PARTNERSHIPS AND SALES (7 roles)
 
-Operations Manager
-Day to day lab operations. Scheduling. Coordination. Makes sure everything actually runs.
-Status: Funded upon grant support. Volunteer welcome.
+**Head of Strategic Partnerships**
+Builds and manages the corporate relationships that fund and sustain the lab's research mission. Owns the corporate partnership pipeline: identifying organizations that need access to post-deployment AI safety research, building the value proposition, and closing annual memberships. Oversees the sales team and builds the function from the ground up.
+Hiring Phase: Year 1 | [Read the full description]
 
-Grant Writer and Development Officer
-Writes grant applications. Manages funder relationships. Tracks deadlines. This person's job is to bring money in the door. NSF SBIR, Cartier, CalOSBA, and every other aligned opportunity. AI augmented: AI drafts sections. Human shapes narrative and manages relationships.
-Status: Funded upon grant support. Volunteer welcome.
+**Corporate Partnerships Representative**
+The frontline of the lab's corporate partnership sales efforts. Prospects, qualifies, and develops relationships with organizations deploying AI systems. Executes outreach, schedules discovery calls, advances deals through the pipeline, and supports account management for existing partners. Quota-carrying role with clear revenue targets.
+Hiring Phase: Year 1 | Compensation: Base + Commission | [Read the full description]
 
-Finance Manager
-Manages lab budget, tracks grant spending, handles accounts payable, produces financial reports for funders. Grant funders specifically require financial accountability and reporting. This is not optional once money starts flowing.
-Status: Funded upon grant support.
+**Evaluations and Assessments Sales Representative**
+Sells the lab's Post-Deployment Safety Audits and Regulatory Readiness Assessments to organizations deploying AI systems. These are the lab's highest-value individual engagements. As AI regulation accelerates, the demand for these assessments is growing. Your job is to make sure the right organizations know we exist and understand why they need this.
+Hiring Phase: Year 1 | Compensation: Base + Commission | [Read the full description]
 
-Fellowship Growth Manager
+**Training and Certification Sales Representative**
+Sells the PRISM Professional Certification and Learning Academy programs to enterprise AI safety teams, compliance departments, and individual professionals. Builds the enrollment pipeline for paid certification cohorts and advanced learning courses. Targets organizations that need their teams trained in post-deployment AI safety monitoring.
+Hiring Phase: Year 1 | Compensation: Base + Commission | [Read the full description]
+
+**Events and Sponsorship Sales Representative**
+Sells sponsorships, exhibit space, and premium attendance packages for the PRISM Summit, virtual conferences, golf tournaments, roundtables, think tanks, hackathons, and retreats. Builds relationships with corporate sponsors who want visibility in the AI safety community. Manages the sponsor pipeline across the lab's full event calendar.
+Hiring Phase: Year 1 | Compensation: Base + Commission | [Read the full description]
+
+**Head of AI Policy and Government Relations**
+Builds the lab's presence in the policy and regulatory landscape. Develops relationships with congressional offices, federal agencies (NIST, AISI), state regulators, and international AI governance bodies. Ensures that the lab's research informs the rules being written for AI deployment. This role is how the lab punches above its weight in Washington and beyond.
+Hiring Phase: Year 2 | [Read the full description]
+
+**Head of Academic Relations**
+Builds formal partnerships with universities, research institutions, and academic networks. Negotiates collaborative research agreements, co-publication terms, and graduate researcher pipelines. Develops university channels for the PRISM certification program and fellowship. Strategically important for IRB coverage, academic credibility, and grant positioning.
+Hiring Phase: Year 2 | [Read the full description]
+
+---
+
+### EVENTS (2 roles)
+
+**Events Director**
+Plans, produces, and manages the lab's full event calendar: the PRISM Summit (annual flagship conference), virtual conferences, golf tournaments, roundtables, think tanks, hackathons, telethons, and retreats. Owns the event P&L, vendor relationships, venue contracts, and production logistics. Coordinates with the Events and Sponsorship Sales Rep on sponsor fulfillment and with the Content team on event marketing.
+Hiring Phase: Year 1 | [Read the full description]
+
+**Events Coordinator**
+Supports the Events Director across all production logistics: attendee registration, speaker coordination, venue setup, A/V management, day-of operations, and post-event follow-up. Manages the operational details that make each event run smoothly so the Director can focus on strategy and relationships.
+Hiring Phase: Year 1 | [Read the full description]
+
+---
+
+### COMMUNITY AND CONTENT (5 roles)
+
+**Community Director**
+Runs the PRISM Research Fellowship program. Manages Discord. Coordinates contributor events. Handles onboarding, recognition, and tier progression. This person is the face of the movement to the one million contributors we are building toward. AI augmented: AI handles tier tracking, badge distribution, and routine moderation. Human handles culture, conflict, and personal connection.
+Hiring Phase: Year 1 | [Read the full description]
+
+**Content and Communications Lead**
+Writes or edits blog posts, manages the newsletter, handles social media, and translates research findings into public-facing content. This is the voice of the lab online. Every post, every email, every social update that reaches the outside world passes through this role. AI augmented: AI assists with drafts and scheduling. Human owns voice and strategy.
+Hiring Phase: Year 1 | [Read the full description]
+
+**Fellowship Growth Manager**
 Recruits volunteer researchers into the PRISM Research Fellowship. Runs campaigns, manages the signup funnel, tracks conversion from visitor to Field Researcher, and drives toward the one million contributor goal. This is the person who owns the impact goal day to day. AI augmented: AI runs campaigns, tracks conversion, automates onboarding. Human sets strategy and handles exceptions.
-Status: Funded upon grant support. Volunteer welcome.
+Hiring Phase: Year 1 | [Read the full description]
 
-PR and Media Relations Manager
+**PR and Media Relations Manager**
 Manages press outreach, media relationships, speaking opportunities, and public narrative. Gets the lab and the founder in front of the right audiences. Pitches stories. Coordinates interviews. Manages inbound press inquiries. This is the person who gets Dee on the TED stage and the lab into Fortune.
-Status: Funded upon grant support. Volunteer welcome.
+Hiring Phase: Year 1 | [Read the full description]
+
+**Multimedia / Video Producer**
+Produces video content for the lab's website, social channels, events, and educational programs. Conference session recordings, interview series, course content for the Learning Academy, promotional videos, and social media content. Manages the lab's visual storytelling from concept through post-production.
+Hiring Phase: Year 2 | [Read the full description]
 
 ---
 
-### SUPPORT (3 roles)
+### CREATIVE (2 roles)
 
-Executive Assistant to the CEO (Audacion AI Labs)
+**Creative Director**
+Owns the visual identity of Audacion AI Labs across every touchpoint: website, publications, event materials, merchandise, social media, presentations, and the PRISM brand system. Sets the design language, manages the brand guidelines, and ensures visual consistency as the lab scales across multiple channels and products.
+Hiring Phase: Year 1 | [Read the full description]
+
+**Graphic Designer**
+Executes the daily design needs of the lab: social media graphics, event collateral, presentation decks, report layouts, infographics, merchandise designs, and digital assets. Works under the Creative Director to maintain brand consistency while producing the volume of visual content a growing organization demands.
+Hiring Phase: Year 1 | [Read the full description]
+
+---
+
+### LEARNING AND TRAINING (1 role)
+
+**Trainer / Curriculum Director**
+Designs, builds, and delivers the PRISM Professional Certification curriculum and the Learning Academy course catalog. Develops training content that teaches enterprise teams how to monitor AI behavior after deployment using the PRISM framework. Coordinates with the Head of Academic Relations on university integration and with the Training Sales Rep on enterprise cohort scheduling.
+Hiring Phase: Year 1 | [Read the full description]
+
+---
+
+### OPERATIONS AND ADMINISTRATION (8 roles)
+
+**Operations Manager**
+Day-to-day lab operations. Scheduling, coordination, vendor management, and making sure everything actually runs. In a lab with 47 people and 20 revenue streams, someone has to own the operational infrastructure that keeps all of it moving.
+Hiring Phase: Year 1 | [Read the full description]
+
+**Finance Manager**
+Manages the lab budget, tracks grant spending, handles accounts payable, and produces financial reports for funders. Grant funders specifically require financial accountability and reporting. This is not optional once money starts flowing. Ensures the lab's financial operations meet the standards that NSF, foundation, and corporate partners expect.
+Hiring Phase: Year 1 | [Read the full description]
+
+**Bookkeeper (Part-Time)**
+Handles daily bookkeeping: transaction recording, bank reconciliations, invoice processing, and expense tracking. Works with the Finance Manager to maintain clean, audit-ready books. A part-time role that keeps the financial foundation accurate so the Finance Manager can focus on reporting and strategy.
+Hiring Phase: Year 1 | [Read the full description]
+
+**Office Administrator**
+Manages the physical office in Marina del Rey: supplies, mail, visitor coordination, conference room scheduling, and facility maintenance. Handles administrative support across departments. Keeps the space running so everyone else can focus on their work.
+Hiring Phase: Year 1 | [Read the full description]
+
+**HR Manager**
+Builds and manages the lab's human resources function: employee onboarding, benefits administration, performance management, compliance, employee relations, and culture. As the team scales to 47 people across 10 departments, the HR infrastructure has to scale with it.
+Hiring Phase: Year 1 | [Read the full description]
+
+**Internal Talent Recruiter**
+Recruits the lab staff across every department: researchers, engineers, operations, sales, creative, events, and community. When the lab is hiring across 47 roles, someone needs to own that pipeline. Manages job postings, candidate screening, interview coordination, and offer processes.
+Hiring Phase: Year 1 | [Read the full description]
+
+**Executive Assistant to the CEO (Audacion AI Labs)**
 Dedicated to the lab. Manages Dee's calendar, communications, and coordination for Audacion AI Labs specifically. Coordinates with assistants across the other companies. Keeps the lab running when Dee is building, speaking, or managing the other businesses.
-Status: Funded upon grant support. Volunteer welcome.
+Hiring Phase: Year 1 | [Read the full description]
 
-Internal Talent Recruiter
-Recruits the lab staff. Researchers, engineers, operations, community. Traditional recruiting. When the lab is hiring across 20+ roles, someone needs to own that pipeline.
-Status: Funded upon grant support. Volunteer welcome.
+**Fractional Legal Counsel**
+Provides legal guidance on contracts, intellectual property, employment law, data privacy, and regulatory compliance. Reviews partnership agreements, grant terms, and vendor contracts. A fractional role that provides the legal infrastructure a growing organization needs without full-time overhead.
+Hiring Phase: Year 1 | [Read the full description]
 
-Research Editor
-Reviews and edits every paper, working paper, and blog post before publication. Ensures academic standards, citation accuracy, and consistent voice. AI assists with formatting and consistency checks. Human makes final editorial calls. When an NSF reviewer reads your paper, the quality of the writing signals the quality of the thinking. This role is the last set of eyes before anything goes public.
-Status: Funded upon grant support. Volunteer welcome.
+---
+
+### DEVELOPMENT AND FUNDRAISING (1 role)
+
+**Grant Writer / Development Officer**
+Writes grant applications, manages funder relationships, and tracks deadlines. This person's job is to bring money in the door. NSF SBIR, Cartier, CalOSBA, and every other aligned opportunity. AI augmented: AI drafts sections. Human shapes narrative and manages relationships.
+Hiring Phase: Year 1 | [Read the full description]
 
 ---
 
@@ -189,6 +314,7 @@ Interested? Reach out through our contact page and tell us what you study, what 
 
 Want to contribute now? Become a PRISM Field Researcher.
 Want to follow our work? Follow the research.
+Want to level up your team? Explore our training and certification programs.
 
 ---
 
@@ -196,8 +322,13 @@ Want to follow our work? Follow the research.
 
 - Same dark background as rest of site
 - Video at top when ready
-- Roles grouped by function with clear headers
-- Each role shows title, description, AI augmentation note where applicable, and funding status
+- Roles grouped by department with clear headers and role count per department
+- Each role shows title (bold), short paragraph description, hiring phase, and "Read the full description" link
+- Sales roles show "Compensation: Base + Commission" tag inline
+- Part-time and consultant roles should be visually tagged differently from full-time roles
 - Governance structure section (Human Board + AI Council) should be visually prominent
 - AI Advisory Council with seven model names listed is a credibility and differentiation signal
-- Consider a live counter showing roles filled vs roles open
+- Consider a live counter showing roles filled vs roles open (1 filled, 46 open)
+- "Read the full description" links will route to individual role pages or a dedicated JD viewer
+- Consider collapsible department sections for mobile experience
+- Department headers should show count: "RESEARCH (14 roles)" as a visual signal of organizational depth
