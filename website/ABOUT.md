@@ -66,7 +66,7 @@ In ten years, we will build the world's first post-deployment AI safety dataset,
 ## SECTION 7: VALUES
 
 ### 1. Independence Is the Research
-Audacion AI Labs is not funded by the companies whose models we study. Our findings are our own. Independence is not a policy. It is the condition that makes every other value possible. Without it, honest science is compromised, data governance is conflicted, and the research serves someone else's interests instead of the public's.
+Audacion AI Labs partners with model developers, accepts corporate funding, and welcomes organizations whose products we study as both funders and research collaborators. We disclose every funding relationship and every collaborative arrangement publicly. Some partners fund the mission. Some provide model access, data, or technical collaboration that makes the research possible. Some do both. In every case, the boundary is the same: our research direction, methodology, and publication decisions are never influenced by who funds us or who collaborates with us. Partners do not see findings before publication. Partners do not approve what we publish. Collaborative access does not come with editorial influence. Independence at this lab is not about refusing money or working in isolation. It is about building a structure where neither funding nor access can reach the science. That boundary is not a policy. It is architecture.
 
 ### 2. Honest Science
 AI can be used for extraordinary good and extraordinary harm. We don't pick a side before we study the evidence. We research the full truth of what AI can do and guide it accordingly.
