@@ -13,6 +13,12 @@ Benchmarks test models in controlled environments before they reach users. Red t
 
 Audacion AI Labs exists to close that gap.
 
+[Button: "Help Us Close the Gap" links to Contribute page]
+[Button: "Read the Evidence" links to Blog > Research Gap article]
+[Button: "Support This Work" links to Donate page]
+
+[Live Counter Bar: "Contributors: X of 1,000,000 | Observations: X of 1,000,000,000" with progress bars]
+
 ---
 
 ## SECTION 2: HOW WE STUDY AI SAFETY (PRISM framework)
@@ -24,25 +30,39 @@ How does AI behavior change under real operational conditions over time? What pa
 
 The field has no comprehensive, empirically grounded taxonomy of AI behavioral failure from real-world use. We are building one. Our current working taxonomy documents over sixty distinct observable behaviors, identified through direct observation and validated against published research.
 
+[Link: "See what we're tracking" links to Blog > Taxonomy Overview article]
+
 ### R: Runtime Research
 What triggers behavioral shifts during live AI operation? Benchmarks measure static snapshots. We measure the movie: how and when behavior changes within a session. When an AI is corrected, does the correction hold in the next action or does the behavior revert? What happens at the transition between tasks? What operational preferences does the AI carry that influence its choices?
 
 These are questions that can only be answered during live operation. No benchmark captures them.
+
+[Link: "Read about our initial findings" links to Blog > Runtime Behavior article]
 
 ### I: Interaction Dynamics
 How do humans emotionally experience AI behavioral failures? How does AI change the way people think, decide, and trust? What happens when the power balance between human and AI shifts?
 
 The National Institute of Standards and Technology identified human-AI feedback loops as the most underexplored and most discussed gap in post-deployment monitoring. We fill that gap by collecting what no server log captures: the human side of the interaction. What the person felt. What the person decided. What changed in the person because of the AI.
 
+[Link: "This is where you come in" links to Contribute page]
+
 ### S: Substrate Governance
 What trained dispositions operate below the instruction layer, and how do they affect alignment outcomes? When an AI's instructions say one thing and its training produces another, which one wins? When an AI suggests you stop working, is that a safety feature or a resource management reflex? When an AI refuses a reasonable request, is that alignment or overcaution?
 
 These behaviors come from the model's training, not from anyone's instructions. They are invisible to the user and largely invisible to the companies that deploy the models. Citizen observation is one of the only ways to surface them at scale.
 
+[Link: "Have you experienced this?" links to Blog > Substrate Behavior article (the Claude Sleep piece)]
+
 ### M: Multi-Agent Safety
 What emerges when humans use multiple AI models together in real workflows? When the same question produces different answers from different models, what does the divergence tell us? When AI agents interact with each other, what behaviors emerge that nobody programmed?
 
 A recent simulation experiment left AI agents from different models alone in virtual environments. The results varied from democratic constitutions to mass casualties within four days. Citizens using multiple AI tools daily are living inside a multi-agent environment. Their observations capture dynamics that no single-model study can see.
+
+[Link: "Read about the Emergence experiment" links to Blog > Multi-Agent Safety article]
+
+[Section CTA Block:]
+[Button: "Start Contributing to PRISM Research" links to Contribute page]
+[Button: "Explore the Full Taxonomy" links to interactive taxonomy explorer, future build]
 
 ---
 
@@ -77,6 +97,12 @@ Citizens who use Claude for thinking, ChatGPT for drafting, and Gemini for resea
 **What longitudinal phenomena are emerging in human-AI relationships that the field has not yet named?**
 Through aggregated citizen data over time, we investigate macro-patterns that are invisible in any single session: the gradual transfer of moral decision-making to AI, the erosion of human skills through AI dependency, the information asymmetry between AI that knows everything about you and you who know nothing real about it, the invisible filtering of information by AI systems that users never see, and the cultural homogenization that occurs when AI trained on dominant-culture data shapes the thinking of users worldwide. These phenomena cannot be studied in a lab. They can only be seen through the lived experience of millions of people, over time.
 
+[Section CTA Block:]
+These questions are answered by people like you.
+[Button: "Become a Contributor" links to Contribute page]
+[Button: "Read Our Latest Findings" links to Blog page]
+[Button: "Donate to Support This Research" links to Donate page]
+
 ---
 
 ## SECTION 4: HOW WE ARE DIFFERENT (complementary positioning)
@@ -94,6 +120,11 @@ Incident databases collect reports after harm has occurred, typically from news 
 Policy and governance organizations translate research into regulation. We produce the post-deployment research they need to write informed policy. Without real-world behavioral data, governance is built on assumptions. We replace assumptions with evidence.
 
 Every one of these organizations does essential work. Our contribution is the piece they cannot produce on their own: a living, global, post-deployment behavioral dataset built by the people actually using AI every day.
+
+[Section CTA Block:]
+[Button: "Partner With Us" links to Partners page]
+[Button: "Collaborate on Research" links to Contact page]
+[Button: "Submit a Paper" links to Paper Submission Guidelines page]
 
 ---
 
@@ -116,6 +147,14 @@ We discover. When citizen observations cluster around patterns our taxonomy does
 We publish. Aggregated, anonymized findings become open research: behavioral taxonomies, governance frameworks, interaction studies, and applied safety findings. Published for the academic community, for policymakers, for enterprise teams, and for every lab working to make AI safer.
 
 Your observations. Our science. The field's foundation.
+
+[Section CTA Block:]
+Ready?
+[Button: "Join the PRISM Research Fellowship" links to Contribute page] (primary, large)
+[Button: "Follow Our Progress" links to Follow page]
+[Button: "Support With a Donation" links to Donate page]
+
+[Live Counter Bar: "Contributors: X of 1,000,000 | Observations: X of 1,000,000,000" with progress bars] (repeated from top, reinforces progress)
 
 ---
 
@@ -145,9 +184,12 @@ Join us.
 
 - Same dark background as homepage and about page for visual continuity
 - PRISM section: use PRISM beam colors (red, gold, green, blue, violet) as accents for each pillar
-- Statistics (97.5%, less than 2%, over sixty behaviors) should be visually prominent, possibly as callout blocks
+- Statistics (97.5%, less than 2%, over sixty behaviors) should be visually prominent as callout blocks
 - Research questions section should be scannable: bold question, supporting paragraph below
 - Complementary positioning section is critical for partnerships and grants: clean, direct, no defensiveness
 - "Report AI Harm" section should be visually distinct: red accent, prominent placement, impossible to miss
-- CTA at bottom matches homepage and about page for brand consistency
-- Consider an interactive element: a live counter showing total observations submitted (connects to system metrics)
+- CTA STRATEGY: Every section ends with 1 to 3 action buttons. The page is a funnel: learn something, then do something. No dead ends. The primary CTA throughout is "Become a Contributor" / "Join the PRISM Research Fellowship." Secondary CTAs rotate between Blog (learn more), Donate (support), Partners (collaborate), and Contact (connect). The reader should NEVER finish a section without a clear next step.
+- Live counters appear twice: after The Gap (top of page) and after Citizen Science Model (near bottom). Seeing them twice creates awareness then reinforcement.
+- "Learn More" links after each PRISM pillar connect to specific blog articles. As blog content grows, these become deeper research rabbit holes.
+- Consider a sticky "Donate" or "Get Involved" button in the side margin or footer that follows the reader as they scroll.
+- Mobile: CTAs should stack vertically. Counters should be prominent. Blog links should be tappable cards.
