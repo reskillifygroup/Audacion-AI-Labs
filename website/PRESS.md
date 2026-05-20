@@ -21,6 +21,7 @@ This page is for journalists, editors, podcast hosts, conference organizers, and
 
 For all media inquiries, interview requests, and press information:
 media@audacionailabs.com
+(424) 999-0548
 
 For speaking engagement inquiries:
 speaking@audacionailabs.com

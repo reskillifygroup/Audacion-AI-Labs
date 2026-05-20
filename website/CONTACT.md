@@ -28,11 +28,12 @@ Message:
 
 ## DIRECT CONTACT
 
+Phone: (424) 999-0548
 Email: research@audacionailabs.com
-Press: press@audacionailabs.com
+Media: media@audacionailabs.com
+Partnerships: partnerships@audacionailabs.com
+Speaking: speaking@audacionailabs.com
 Location: Los Angeles, California
-
-[Designer note: placeholder emails, Dee to confirm domain and setup]
 
 ---
 
