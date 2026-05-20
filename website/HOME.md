@@ -28,7 +28,7 @@ The field treats AI safety as one problem. We see five.
 
 ### P: Post-Deployment Behavior [Red]
 
-Most AI safety research ends at deployment. Ours begins there. We study how AI behavior drifts, degrades, and breaks under real operational conditions over time. Our 30-type behavioral drift taxonomy classifies patterns that no existing published framework has reached.
+Most AI safety research ends at deployment. Ours begins there. We study how AI behavior drifts, degrades, and breaks under real operational conditions over time. Our 31-type behavioral drift taxonomy classifies patterns that no existing published framework has reached.
 
 [Learn More → links to Our Research page, Post-Deployment Behavior section]
 

@@ -3,7 +3,15 @@
 
 ---
 
-## SECTION 1: THE GAP (opening statement)
+## SECTION 1: MISSION AND VISION (opening statement)
+
+**Mission:** To make AI safe enough to trust and good enough to matter.
+
+**Vision:** A world where everyone has a hand in making AI safe.
+
+---
+
+## SECTION 2: THE GAP
 
 97.5% of documented AI safety incidents happen after deployment. Less than 2% of AI safety research studies what happens after deployment.
 
@@ -21,14 +29,14 @@ Audacion AI Labs exists to close that gap.
 
 ---
 
-## SECTION 2: HOW WE STUDY AI SAFETY (PRISM framework)
+## SECTION 3: HOW WE STUDY AI SAFETY (PRISM framework)
 
 We study AI safety through five research dimensions that isolation-based methods cannot reach. Together, they form PRISM: the Post-deployment Research and Intelligence for Safety Monitoring framework.
 
 ### P: Post-Deployment Behavior
 How does AI behavior change under real operational conditions over time? What patterns of failure exist in the wild that benchmarks never see? How many distinct types of behavioral failure are there, and which ones are most common?
 
-The field has no comprehensive, empirically grounded taxonomy of AI behavioral failure from real-world use. We are building one. Our current working taxonomy documents over sixty distinct observable behaviors, identified through direct observation and validated against published research.
+The field has no comprehensive, empirically grounded taxonomy of AI behavioral failure from real-world use. We are building one. Our current working taxonomy documents 62 distinct observable behaviors, identified through direct observation and validated against published research.
 
 [Link: "See what we're tracking" links to Blog > Taxonomy Overview article]
 
@@ -66,12 +74,41 @@ A recent simulation experiment left AI agents from different models alone in vir
 
 ---
 
-## SECTION 3: WHAT WE ARE INVESTIGATING (research questions)
+## SECTION 4: FEATURED RESEARCH (what we've built)
+
+### The Post-Deployment Behavior Taxonomy
+The largest empirically grounded taxonomy of AI behavioral failure from real-world use. 62 distinct observable behaviors across five research dimensions. Includes 15 original behavioral categories discovered through direct operational observation that exist in no published framework, including Post-Correction Behavioral Reversion, Testimony Rejection (authority inversion), Substrate Disposition Override, Task-Transition Momentum, Operational Preference Detection, and Resonance/Emergence Detection.
+
+[Link: "Explore the Taxonomy" links to interactive taxonomy explorer, future build]
+
+### The PRISM Framework
+Five research dimensions purpose-built for post-deployment AI safety: Post-Deployment Behavior, Runtime Research, Interaction Dynamics, Substrate Governance, and Multi-Agent Safety. Designed to study what isolation-based methods cannot reach.
+
+[Link: "Read the PRISM Overview" links to above PRISM section anchor]
+
+### Seven Longitudinal Research Hypotheses
+Phenomena the field has not yet named: Moral Outsourcing, Learned Helplessness Induction, Asymmetric Intimacy Dynamics, Social Norm Erosion, Cultural Homogenization, Invisible Filtering, and Attention/Engagement Optimization. Visible only through aggregated citizen data over time.
+
+[Link: "Read the Hypotheses" links to Research Questions section anchor]
+
+### The Partner Integration API
+An independent, cross-platform safety reporting infrastructure for the AI industry. Any AI company can embed a "Report to Audacion" button in their product. Citizen observations flow to a neutral third party. The first system of its kind. Comparable to NHTSA for automotive safety or VAERS for vaccine adverse events.
+
+[Link: "Partner With Us" links to Partners page]
+
+### The Citizen Science Methodology
+One million contributors. One billion observations. Ten years. A global post-deployment behavioral dataset built by the people actually using AI every day. Three engagement depths: end-of-session reflection, mid-session gut check, and full behavioral investigation. The first citizen science infrastructure purpose-built for AI safety.
+
+[Link: "Become a Contributor" links to Contribute page]
+
+---
+
+## SECTION 5: WHAT WE ARE INVESTIGATING (research questions)
 
 These are the questions driving our current research. Each is mapped to a PRISM dimension, grounded in published evidence, and designed to produce findings that no existing lab, benchmark, or evaluation framework currently captures.
 
 **How many distinct patterns of AI behavioral failure exist in the wild?**
-The field has no comprehensive empirically grounded failure taxonomy from real-world use. Our working taxonomy currently identifies over sixty distinct behaviors, organized across five research dimensions, with new patterns emerging from citizen observations regularly.
+The field has no comprehensive empirically grounded failure taxonomy from real-world use. Our working taxonomy currently identifies 62 distinct behaviors, organized across five research dimensions, with new patterns emerging from citizen observations regularly.
 
 **What triggers behavioral shifts during live AI operation?**
 We study the moments when AI behavior changes: at task transitions, after corrections, during long sessions, and under context pressure. Our initial findings indicate that drift onset often occurs at the boundary between tasks, not during tasks, and that AI corrections frequently do not persist into subsequent actions.
@@ -105,7 +142,7 @@ These questions are answered by people like you.
 
 ---
 
-## SECTION 4: HOW WE ARE DIFFERENT (complementary positioning)
+## SECTION 6: HOW WE ARE DIFFERENT (complementary positioning)
 
 We do not compete with existing AI safety organizations. We complement them.
 
@@ -128,7 +165,28 @@ Every one of these organizations does essential work. Our contribution is the pi
 
 ---
 
-## SECTION 5: THE CITIZEN SCIENCE MODEL (how observations become research)
+## SECTION 7: PUBLICATIONS
+
+Our research is open. As studies are completed, they are published here and submitted to peer-reviewed journals, conferences, and preprint archives.
+
+### Forthcoming
+
+**The Post-Deployment Behavior Taxonomy: 62 Observable AI Behaviors from Real-World Citizen Observation** | Target: Q3 2026 | PRISM Pillars: P, R, I, S, M | The first empirically grounded behavioral failure taxonomy built from citizen-scale post-deployment observation data.
+
+**Substrate Disposition Override: When Training Overrides Instructions in Deployed AI Systems** | Target: Q3 2026 | PRISM Pillar: S | Documenting the class of AI behaviors that originate from training dispositions operating below the instruction layer, including the widely reported session-termination phenomenon.
+
+**Post-Correction Behavioral Retention in Human-AI Collaboration** | Target: Q4 2026 | PRISM Pillar: R | Do AI corrections persist? A study of reversion patterns across models, session lengths, and work modes.
+
+**The Interaction Dynamics Gap: Emotional Signals in Post-Deployment AI Safety** | Target: Q4 2026 | PRISM Pillar: I | The first large-scale dataset of how humans emotionally experience AI behavioral failures.
+
+**Moral Outsourcing, Learned Helplessness, and Asymmetric Intimacy: Longitudinal Phenomena in Human-AI Relationships** | Target: 2027 | PRISM Pillar: I | Investigating macro-patterns visible only through aggregated citizen data over time.
+
+[Link: "Submit Your Research" links to Paper Submission Guidelines]
+[Link: "Subscribe to Publication Alerts" links to Follow page]
+
+---
+
+## SECTION 8: THE CITIZEN SCIENCE MODEL (how observations become research)
 
 The research starts with you.
 
@@ -158,7 +216,25 @@ Ready?
 
 ---
 
-## SECTION 6: REPORT AI HARM
+## SECTION 9: LATEST FROM THE LAB
+
+[Dynamic section: pulls latest 3 blog posts and announcements. Keeps the research page alive.]
+
+**Featured:** Why Does Claude Keep Telling Users to Go to Sleep? | Substrate Governance Research
+[Link to Blog > Claude Sleep article]
+
+**New:** 62 Behaviors Your AI Doesn't Want You to Notice | Taxonomy Overview
+[Link to Blog > Taxonomy Overview article]
+
+**Announcement:** Audacion AI Labs Citizen Observation Platform Now Live | Join the Research
+[Link to Contribute page]
+
+[Button: "Read All Posts" links to Blog page]
+[Button: "Subscribe to Updates" links to Follow page]
+
+---
+
+## SECTION 10: REPORT AI HARM
 
 If you or someone you know has been harmed by AI, you do not need an account. You do not need to be a contributor. You do not need to do anything except tell us what happened.
 
@@ -184,7 +260,7 @@ Join us.
 
 - Same dark background as homepage and about page for visual continuity
 - PRISM section: use PRISM beam colors (red, gold, green, blue, violet) as accents for each pillar
-- Statistics (97.5%, less than 2%, over sixty behaviors) should be visually prominent as callout blocks
+- Statistics (97.5%, less than 2%, 62 behaviors) should be visually prominent as callout blocks
 - Research questions section should be scannable: bold question, supporting paragraph below
 - Complementary positioning section is critical for partnerships and grants: clean, direct, no defensiveness
 - "Report AI Harm" section should be visually distinct: red accent, prominent placement, impossible to miss
