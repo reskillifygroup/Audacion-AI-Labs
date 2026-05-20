@@ -102,7 +102,8 @@ For reporters looking for the angle:
 
 **The Crisis**
 
-- AI chatbots are hurting people in emotional distress. Incidents are accelerating. The data about what happens in these interactions can only come from the people it is happening to. Audacion AI Labs built the reporting mechanism and has a dedicated Behavioral Health Advisor processing crisis-context observations for the research team.
+- Incidents of AI causing direct harm to people are accelerating: crisis chatbots encouraging self-harm, companion apps exploiting emotional vulnerability, AI-generated content used for harassment and impersonation. Every existing incident database collects reports after the fact, from news articles and secondary sources. Audacion AI Labs built the first platform where the person experiencing harm can report it directly, receive immediate crisis resources, preserve evidence, and choose whether their experience contributes to research. No account required. No forms before help. Care comes before data.
+- AI chatbots are hurting people in emotional distress and the data about what happens in those interactions can only come from the people it is happening to. Audacion AI Labs has a dedicated Behavioral Health Advisor reviewing harm reports and a harm response system architecturally separate from its research pipeline. The lab does not treat harmed people as data sources. It treats them as people first and research participants only with explicit consent.
 
 ---
 
