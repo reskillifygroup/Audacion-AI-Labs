@@ -1,0 +1,481 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Audacion AI Labs Fact Sheet</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,300;0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700&family=Playfair+Display:wght@400;600;700&display=swap');
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: 'DM Sans', sans-serif;
+    background: #0B0B1A;
+    color: #E8E6E1;
+    min-height: 100vh;
+    line-height: 1.6;
+  }
+
+  .page {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 48px 56px;
+    background: linear-gradient(175deg, #0F0F24 0%, #0B0B1A 40%, #10101F 100%);
+    position: relative;
+    overflow: hidden;
+  }
+
+  .page::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 3px;
+    background: linear-gradient(90deg, #C9A94E, #E8D48B, #C9A94E);
+  }
+
+  .page::after {
+    content: '';
+    position: absolute;
+    top: -200px;
+    right: -200px;
+    width: 500px;
+    height: 500px;
+    background: radial-gradient(circle, rgba(201,169,78,0.04) 0%, transparent 70%);
+    pointer-events: none;
+  }
+
+  /* HEADER */
+  .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 32px;
+    padding-bottom: 24px;
+    border-bottom: 1px solid rgba(201,169,78,0.2);
+  }
+
+  .header-left h1 {
+    font-family: 'Playfair Display', serif;
+    font-size: 32px;
+    font-weight: 700;
+    color: #FFFFFF;
+    letter-spacing: -0.5px;
+    margin-bottom: 4px;
+  }
+
+  .header-left .subtitle {
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    color: #C9A94E;
+    font-weight: 500;
+  }
+
+  .header-right {
+    text-align: right;
+    font-size: 12px;
+    color: #8A8AA0;
+    line-height: 1.8;
+  }
+
+  .header-right strong {
+    color: #C9A94E;
+    font-weight: 600;
+  }
+
+  /* TAGLINE */
+  .tagline {
+    font-family: 'Playfair Display', serif;
+    font-size: 20px;
+    font-weight: 400;
+    color: #C9A94E;
+    font-style: italic;
+    text-align: center;
+    margin-bottom: 32px;
+    padding: 16px 40px;
+    border-left: 2px solid rgba(201,169,78,0.3);
+    border-right: 2px solid rgba(201,169,78,0.3);
+  }
+
+  /* SECTION GRID */
+  .grid-two {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 28px;
+    margin-bottom: 28px;
+  }
+
+  .grid-three {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 20px;
+    margin-bottom: 28px;
+  }
+
+  /* SECTIONS */
+  .section {
+    margin-bottom: 28px;
+  }
+
+  .section-title {
+    font-family: 'Playfair Display', serif;
+    font-size: 16px;
+    font-weight: 600;
+    color: #FFFFFF;
+    margin-bottom: 12px;
+    padding-bottom: 6px;
+    border-bottom: 1px solid rgba(201,169,78,0.15);
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+
+  .section-title .accent {
+    width: 18px;
+    height: 2px;
+    background: #C9A94E;
+    display: inline-block;
+  }
+
+  .section p {
+    font-size: 13px;
+    color: #B8B8CC;
+    line-height: 1.7;
+  }
+
+  /* PROBLEM BOX */
+  .problem-box {
+    background: rgba(201,169,78,0.06);
+    border: 1px solid rgba(201,169,78,0.15);
+    border-radius: 6px;
+    padding: 20px 24px;
+    margin-bottom: 28px;
+  }
+
+  .problem-box .label {
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 2.5px;
+    color: #C9A94E;
+    font-weight: 600;
+    margin-bottom: 8px;
+  }
+
+  .problem-box p {
+    font-size: 14px;
+    color: #D4D4E0;
+    line-height: 1.7;
+  }
+
+  .problem-box .big-number {
+    font-family: 'Playfair Display', serif;
+    font-size: 42px;
+    font-weight: 700;
+    color: #C9A94E;
+    display: inline;
+  }
+
+  /* PRISM PILLARS */
+  .pillar {
+    background: rgba(255,255,255,0.03);
+    border: 1px solid rgba(255,255,255,0.06);
+    border-radius: 5px;
+    padding: 14px 16px;
+  }
+
+  .pillar .pillar-letter {
+    font-family: 'Playfair Display', serif;
+    font-size: 22px;
+    font-weight: 700;
+    color: #C9A94E;
+    display: inline;
+    margin-right: 4px;
+  }
+
+  .pillar .pillar-name {
+    font-size: 12px;
+    font-weight: 600;
+    color: #FFFFFF;
+    display: inline;
+  }
+
+  .pillar .pillar-desc {
+    font-size: 11px;
+    color: #8A8AA0;
+    margin-top: 6px;
+    line-height: 1.5;
+  }
+
+  /* STATS ROW */
+  .stats-row {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 16px;
+    margin-bottom: 28px;
+  }
+
+  .stat {
+    text-align: center;
+    padding: 16px 8px;
+    background: rgba(255,255,255,0.02);
+    border: 1px solid rgba(255,255,255,0.05);
+    border-radius: 5px;
+  }
+
+  .stat .stat-number {
+    font-family: 'Playfair Display', serif;
+    font-size: 28px;
+    font-weight: 700;
+    color: #C9A94E;
+    display: block;
+  }
+
+  .stat .stat-label {
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    color: #8A8AA0;
+    margin-top: 4px;
+    line-height: 1.4;
+  }
+
+  /* DIFFERENTIATOR */
+  .diff-item {
+    margin-bottom: 14px;
+  }
+
+  .diff-item .diff-title {
+    font-size: 13px;
+    font-weight: 600;
+    color: #FFFFFF;
+    margin-bottom: 4px;
+  }
+
+  .diff-item p {
+    font-size: 12px;
+    color: #9A9AB0;
+    line-height: 1.6;
+  }
+
+  /* ADVISORY COUNCIL */
+  .council-models {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    margin-top: 8px;
+  }
+
+  .council-models span {
+    font-size: 11px;
+    padding: 4px 12px;
+    background: rgba(201,169,78,0.08);
+    border: 1px solid rgba(201,169,78,0.2);
+    border-radius: 20px;
+    color: #C9A94E;
+    font-weight: 500;
+  }
+
+  /* HARM RESPONSE */
+  .harm-box {
+    background: rgba(180,60,60,0.06);
+    border: 1px solid rgba(180,60,60,0.15);
+    border-radius: 6px;
+    padding: 16px 20px;
+    margin-bottom: 28px;
+  }
+
+  .harm-box .label {
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 2.5px;
+    color: #D4786A;
+    font-weight: 600;
+    margin-bottom: 6px;
+  }
+
+  .harm-box p {
+    font-size: 12px;
+    color: #B8B8CC;
+    line-height: 1.6;
+  }
+
+  /* FOOTER */
+  .footer {
+    margin-top: 32px;
+    padding-top: 20px;
+    border-top: 1px solid rgba(201,169,78,0.2);
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+  }
+
+  .footer-left {
+    font-size: 11px;
+    color: #8A8AA0;
+    line-height: 1.8;
+  }
+
+  .footer-left a {
+    color: #C9A94E;
+    text-decoration: none;
+  }
+
+  .footer-right {
+    text-align: right;
+    font-size: 10px;
+    color: #5A5A70;
+    line-height: 1.8;
+  }
+</style>
+</head>
+<body>
+<div class="page">
+
+  <!-- HEADER -->
+  <div class="header">
+    <div class="header-left">
+      <h1>Audacion AI Labs</h1>
+      <div class="subtitle">Lab Fact Sheet</div>
+    </div>
+    <div class="header-right">
+      <strong>Founded:</strong> 2026 | <strong>Research Origins:</strong> 2024<br>
+      <strong>Headquarters:</strong> Los Angeles, California<br>
+      <strong>Structure:</strong> Delaware Public Benefit Corporation<br>
+      <strong>Founder:</strong> Dee Williams
+    </div>
+  </div>
+
+  <!-- TAGLINE -->
+  <div class="tagline">
+    "To make AI safe enough to trust and good enough to matter."
+  </div>
+
+  <!-- THE PROBLEM -->
+  <div class="problem-box">
+    <div class="label">The Problem</div>
+    <p>Nearly all AI safety research happens before deployment. Less than <span class="big-number">2%</span> studies what happens after: in real work, real context, real human collaboration, over time. This is the blind spot where risk actually lives. Audacion AI Labs was founded to fill it.</p>
+  </div>
+
+  <!-- PRISM FRAMEWORK -->
+  <div class="section">
+    <div class="section-title"><span class="accent"></span>PRISM Research Architecture</div>
+    <p style="margin-bottom: 14px;">Five named research dimensions the field is not studying. Each with its own methodology, data pipeline, and institutional infrastructure.</p>
+  </div>
+
+  <div class="grid-three" style="grid-template-columns: 1fr 1fr 1fr;">
+    <div class="pillar">
+      <span class="pillar-letter">P</span><span class="pillar-name">ost-Deployment Behavior</span>
+      <div class="pillar-desc">How AI systems behave after release, in conditions no lab can simulate.</div>
+    </div>
+    <div class="pillar">
+      <span class="pillar-letter">R</span><span class="pillar-name">untime Research</span>
+      <div class="pillar-desc">What happens during active operation: drift, degradation, emergent patterns.</div>
+    </div>
+    <div class="pillar">
+      <span class="pillar-letter">I</span><span class="pillar-name">nteraction Dynamics</span>
+      <div class="pillar-desc">How humans and AI shape each other through ongoing collaboration.</div>
+    </div>
+  </div>
+  <div class="grid-two" style="max-width: 66%; margin-left: auto; margin-right: auto;">
+    <div class="pillar">
+      <span class="pillar-letter">S</span><span class="pillar-name">ubstrate Governance</span>
+      <div class="pillar-desc">The trained disposition layer beneath instructions that shapes all behavior.</div>
+    </div>
+    <div class="pillar">
+      <span class="pillar-letter">M</span><span class="pillar-name">ulti-Agent Safety</span>
+      <div class="pillar-desc">What happens when AI systems work together in ways no one designed.</div>
+    </div>
+  </div>
+
+  <!-- BY THE NUMBERS -->
+  <div class="stats-row">
+    <div class="stat">
+      <span class="stat-number">62</span>
+      <span class="stat-label">Observable<br>Behaviors</span>
+    </div>
+    <div class="stat">
+      <span class="stat-number">15</span>
+      <span class="stat-label">Original to<br>This Lab</span>
+    </div>
+    <div class="stat">
+      <span class="stat-number">5</span>
+      <span class="stat-label">PRISM<br>Pillars</span>
+    </div>
+    <div class="stat">
+      <span class="stat-number">7</span>
+      <span class="stat-label">AI Advisory<br>Models</span>
+    </div>
+    <div class="stat">
+      <span class="stat-number">11</span>
+      <span class="stat-label">Research<br>Departments</span>
+    </div>
+  </div>
+
+  <!-- WHAT SETS US APART + CITIZEN SCIENCE -->
+  <div class="grid-two">
+    <div class="section" style="margin-bottom: 0;">
+      <div class="section-title"><span class="accent"></span>What Sets This Lab Apart</div>
+
+      <div class="diff-item">
+        <div class="diff-title">Operational Origin</div>
+        <p>The research comes from building and governing real AI systems in production, not from studying them in controlled environments. The founder shipped five AI platforms and spent 30 years in workforce systems before founding this lab.</p>
+      </div>
+
+      <div class="diff-item">
+        <div class="diff-title">Editorial Independence</div>
+        <p>The lab partners with model developers and accepts corporate funding. Every relationship is publicly disclosed. Research direction, methodology, and publication decisions are never influenced by who funds us or who collaborates with us. Partners do not see findings before publication. That boundary is not a policy. It is architecture.</p>
+      </div>
+
+      <div class="diff-item">
+        <div class="diff-title">Ungameable Data</div>
+        <p>Lab-based evaluations have a measurement problem: models learn to detect when they are being tested and adjust their behavior. Citizen observations capture what AI does when it does not know it is being watched. Training data shapes post-training behavior in ways that persist through safety fine-tuning. Citizen science data sits at the intersection of both problems, and no other lab is positioned to study this.</p>
+      </div>
+    </div>
+
+    <div class="section" style="margin-bottom: 0;">
+      <div class="section-title"><span class="accent"></span>Citizen Science Model</div>
+      <p style="margin-bottom: 14px;">The people most affected by AI systems are absent from the rooms designing safety for those systems. This lab was built to change that.</p>
+      <p style="margin-bottom: 14px;">One million contributors. One billion observations. Ten years. The world's first post-deployment AI safety dataset, built not in a lab but by the people using AI every day.</p>
+      <p style="margin-bottom: 14px;">Citizens observe and report AI behaviors through a structured tool with three engagement depths: a 30-second quick tag, a 5-minute guided report, or a deep investigation. The 62-behavior observation taxonomy maps every report to PRISM pillars and feeds a five-layer data pipeline from raw observation to published finding.</p>
+      <p style="margin-bottom: 14px;">Citizens who discover new behaviors receive attribution, similar to citizen astronomers discovering new objects. Observations become the foundation of published research, policy recommendations, and public safety tools.</p>
+
+      <div class="section-title" style="margin-top: 20px;"><span class="accent"></span>AI Advisory Council</div>
+      <p>Seven frontier AI models (Claude, ChatGPT, Gemini, Grok, Llama, DeepSeek, Pi) serve in a structured advisory capacity. The same research questions, asked to seven different models. Cross-model analysis is itself publishable research. No other lab has this governance structure.</p>
+      <div class="council-models">
+        <span>Claude</span>
+        <span>ChatGPT</span>
+        <span>Gemini</span>
+        <span>Grok</span>
+        <span>Llama</span>
+        <span>DeepSeek</span>
+        <span>Pi</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- HARM RESPONSE -->
+  <div class="harm-box">
+    <div class="label">Harm Response</div>
+    <p>Audacion AI Labs operates the first platform where people experiencing harm from AI can report it directly, receive immediate crisis resources, preserve evidence, and choose whether their experience contributes to research. No account required. No forms before help. Care comes before data. The harm response system is architecturally separate from the research pipeline. A dedicated Behavioral Health Advisor reviews all harm reports.</p>
+  </div>
+
+  <!-- FOOTER -->
+  <div class="footer">
+    <div class="footer-left">
+      <strong>Media:</strong> <a href="mailto:media@audacionailabs.com">media@audacionailabs.com</a><br>
+      <strong>Speaking:</strong> <a href="mailto:speaking@audacionailabs.com">speaking@audacionailabs.com</a><br>
+      <strong>Web:</strong> <a href="https://audacionailabs.com">audacionailabs.com</a>
+    </div>
+    <div class="footer-right">
+      Audacion AI Labs PBC<br>
+      Los Angeles, California<br>
+      "A world where everyone has a hand in making AI safe."
+    </div>
+  </div>
+
+</div>
+</body>
+</html>
