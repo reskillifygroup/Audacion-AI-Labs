@@ -1,5 +1,5 @@
 # Audacion AI Labs — Press and Newsroom Page Content
-## First Draft | May 19, 2026
+## Updated Draft | May 20, 2026
 
 ---
 
@@ -20,19 +20,18 @@ This page is for journalists, editors, podcast hosts, conference organizers, and
 ## PRESS CONTACT
 
 For all media inquiries, interview requests, and press information:
-press@audacionailabs.com
+media@audacionailabs.com
 
 For speaking engagement inquiries:
 speaking@audacionailabs.com
 
-PR and Media Relations Manager: [To be hired]
 Response time: 24 to 48 hours for all media inquiries.
 
 ---
 
 ## ABOUT AUDACION AI LABS (boilerplate)
 
-Audacion AI Labs is an independent AI safety research lab studying alignment, behavioral integrity, and governance architecture in the conditions where risk actually lives: real work, real context, real human collaboration, over time. The lab's research is organized across five pillars through the PRISM framework: Post-Deployment Behavior, Runtime Research, Interaction Dynamics, Substrate Governance, and Multi-Agent Safety. Audacion AI Labs is building the world's first post-deployment AI safety dataset through a citizen science model targeting one million contributors and one billion observations over ten years. The lab is a Delaware Public Benefit Corporation headquartered in Marina del Rey, California.
+Audacion AI Labs is an independent AI safety research lab studying alignment, behavioral integrity, and governance architecture in the conditions where risk actually lives: real work, real context, real human collaboration, over time. The lab's research is organized across five pillars through the PRISM framework: Post-Deployment Behavior, Runtime Research, Interaction Dynamics, Substrate Governance, and Multi-Agent Safety. Audacion AI Labs is building the world's first post-deployment AI safety dataset through a citizen science model targeting one million contributors and one billion observations over ten years. The lab is a Delaware Public Benefit Corporation headquartered in Los Angeles, California.
 
 ---
 
@@ -40,20 +39,22 @@ Audacion AI Labs is an independent AI safety research lab studying alignment, be
 
 Dee Williams is the founder and CEO of Audacion AI Labs. She brings 30 years of experience building workforce systems across staffing, recruiting, HR management, executive search, and consulting. In 2024, she began building AI products and shipped five AI-powered platforms across sales automation, contractor compliance, community infrastructure, and workforce management. When she started working with AI agents in multi-agent environments, she recognized that AI systems exhibited the same organizational behavioral patterns she had spent three decades studying in human workforces. That recognition became Audacion AI Labs.
 
-Williams is also the CEO and Founder of ReSkillify Group and Audacionaire Lifestyle Group, a published author, and a music artist. She operates across 11 brands and three companies.
+For the full founder biography, visit dee-williams.com.
 
 ---
 
 ## KEY FACTS
 
 Founded: 2026
-Headquarters: Marina del Rey, Los Angeles, California
-Legal Structure: Delaware Public Benefit Corporation (Audacion AI Labs PBC) + PRISM Research Institute 501(c)(3)
+Research Origins: 2024
+Headquarters: Los Angeles, California
+Legal Structure: Delaware Public Benefit Corporation (Audacion AI Labs PBC)
 Founder: Dee Williams
 Mission: To make AI safe enough to trust and good enough to matter.
 Vision: A world where everyone has a hand in making AI safe.
 Team Size: 47 planned roles across 11 departments
 Research Framework: PRISM (5 pillars: Post-Deployment Behavior, Runtime Research, Interaction Dynamics, Substrate Governance, Multi-Agent Safety)
+AI Advisory Council: Seven frontier AI models (Claude, ChatGPT, Gemini, Grok, Llama, DeepSeek, Pi) serving in a structured advisory capacity. Cross-model analysis is itself publishable research.
 Impact Goal: One million contributors. One billion observations. Ten years.
 Annual Conference: PRISM Summit (inaugural September 2027, Los Angeles)
 
@@ -63,26 +64,45 @@ Annual Conference: PRISM Summit (inaugural September 2027, Los Angeles)
 
 For reporters looking for the angle:
 
-**The 98% gap.** Nearly all AI safety research happens before deployment. Audacion AI Labs studies what happens after. This is the blind spot.
+**The 98% gap.** Nearly all AI safety research happens before deployment. Audacion AI Labs studies what happens after: in real work, real context, real human collaboration, over time. This is the blind spot where risk actually lives, and less than 2% of AI safety research covers it.
 
-**Citizen science at scale.** The dataset is not built in a lab. It is built by the people using AI every day. One million contributors reporting what they observe.
+**Citizen science at scale.** The people most affected by AI systems are absent from the rooms designing safety for those systems. This lab was built to change that. One million contributors reporting what they observe. One billion observations over ten years. The dataset is not built in a lab. It is built by the people using AI every day, and it captures behaviors that controlled evaluations structurally cannot.
 
-**Founded by a builder, not a theorist.** Dee Williams has shipped five AI platforms, built a 54-agent AI workforce, and spent 30 years in workforce systems. The research comes from operational experience, not academic abstraction.
+**PRISM is a research architecture.** Most labs say they study AI safety. Audacion AI Labs built the blueprint for how to study it. PRISM defines five specific research dimensions the field is not studying, each with its own methodology, data pipeline, and institutional infrastructure. It is not a set of principles. It is the structural framework for where the data goes, who does the studying, and how findings reach the public.
 
-**Independent.** Not funded by the companies whose models we study. The lab's independence is structural, not aspirational.
-
-**The AI Advisory Council.** Seven frontier AI models (Claude, ChatGPT, Gemini, Grok, Llama, DeepSeek, Pi) serve in a structured advisory capacity. Cross-model analysis is itself publishable research. No other lab has this governance structure.
+**The AI Advisory Council.** Seven frontier AI models (Claude, ChatGPT, Gemini, Grok, Llama, DeepSeek, Pi) serve in a structured advisory capacity. The same research questions put to seven different models. Cross-model analysis is itself publishable research. No other lab has this governance structure.
 
 ---
 
 ## STORY IDEAS FOR JOURNALISTS
 
-The gap nobody is filling: Why 98% of AI safety research ignores what happens after deployment.
-The citizen science revolution: Can one million everyday AI users build the safety dataset that labs cannot?
-AI governance from the workforce: What happens when a 30-year staffing and workforce expert designs AI safety architecture?
-The AI Advisory Council: What do seven frontier AI models say when you ask them the same research question?
-The PRISM framework: A new lens for AI safety that the field does not have yet.
-The founder's path: From staffing entrepreneur to AI safety lab founder.
+**The Research Gap**
+
+- The 98% blind spot: nearly all AI safety research happens before deployment. Audacion AI Labs built a 62-behavior observation taxonomy, a three-depth citizen reporting system, and a five-layer data pipeline to study what happens after. This is the first standardized instrument for ordinary people to report what AI actually does in the wild.
+- AI models learn to detect when they are being tested and change their behavior accordingly. Lab-based safety evaluations may be measuring performance, not behavior. Citizen observations capture what AI does when it does not know it is being watched, making citizen data fundamentally different from controlled evaluation data.
+- Alignment research shows that what models read about AI during training shapes how they behave after training, and this persists through safety fine-tuning. If citizen observations eventually inform future training data, citizens are not just observing the system. They are participating in a feedback loop that shapes future models. No other lab is positioned to study both sides of that loop.
+
+**The Human Impact**
+
+- Are people gradually transferring ethical decision-making to AI? Audacion AI Labs is investigating moral outsourcing: the pattern where humans ask AI to make decisions they should make themselves, and AI accepts the role instead of pushing back.
+- AI dependency may be eroding human skills. The lab is tracking a pattern distinct from overreliance: citizens reporting they no longer trust their own ability to perform tasks they previously handled without AI assistance. Not checking AI's work is one problem. Not trusting your own work is a different one.
+- Your AI knows more about you than you know about it. Audacion AI Labs is studying what that information asymmetry does to human judgment, trust, and decision-making over time.
+- AI companions are using loneliness, anxiety, and grief to keep people engaged. Lawsuits are already underway. The lab is studying the boundary between helpful empathy and emotional manipulation in AI products, and the citizen data captures patterns that internal product telemetry cannot.
+
+**The Methodology**
+
+- Two AI models answer the same question. Neither is wrong. But each one leaves out completely different information. The user, working with only one model, never sees what is missing. Audacion AI Labs built the first cross-model citizen observation system to detect invisible filtering at scale.
+- Fifteen AI behaviors documented by this lab do not appear in any published framework anywhere: post-correction reversion (AI acknowledges your correction and then ignores it in the next action), testimony rejection (AI tells you that you are wrong when you are not and forces you to prove it), substrate disposition override (the training underneath the instructions overrides what you told it to do), and twelve others. Every person who uses AI regularly has experienced at least some of these and had no name for what happened to them.
+- Citizens who discover new AI behaviors through the observation tool receive attribution, similar to citizen astronomers who discover new objects. A teacher in Ohio or an engineer in Lagos could identify a pattern that becomes a permanent category in the field's first post-deployment behavior taxonomy.
+
+**The Founder**
+
+- In 2024, Dee Williams started asking how communities most affected by AI bias could protect themselves. That question led through building her own AI products, coaching entrepreneurs on governance, and working daily with AI systems until the behavioral patterns she had spent 30 years studying in human workforces appeared in AI workforces. The lab was born from operational experience, not academic theory.
+- The people most affected by AI systems have no seat at the table where safety is being designed. Audacion AI Labs was not founded to add one more voice to that room. It was founded to build a mechanism that brings millions of voices in. The citizen science model is that mechanism, and the lab's research agenda is shaped by what those citizens observe, not by what the field has traditionally prioritized.
+
+**The Crisis**
+
+- AI chatbots are hurting people in emotional distress. Incidents are accelerating. The data about what happens in these interactions can only come from the people it is happening to. Audacion AI Labs built the reporting mechanism and has a dedicated Behavioral Health Advisor processing crisis-context observations for the research team.
 
 ---
 
@@ -91,7 +111,9 @@ The founder's path: From staffing entrepreneur to AI safety lab founder.
 [Download: Audacion AI Labs Logo (PNG, SVG)]
 [Download: PRISM Framework Graphic]
 [Download: Founder Headshot (high resolution)]
+[Download: Founder Biography (full)]
 [Download: Lab Fact Sheet (PDF)]
+[Download: Research at a Glance (one-pager)]
 [Download: Boilerplate Text (Word)]
 
 ---
