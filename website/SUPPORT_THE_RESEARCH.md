@@ -1,4 +1,4 @@
-# Audacion AI Labs — Contribute Page Content
+# Audacion AI Labs — Support the Research Page Content
 ## Final Draft | May 17, 2026
 
 ---
