@@ -13,7 +13,7 @@ The people behind the research.
 
 ### Dee Williams
 **CEO and Founder, Audacion AI Labs**
-**CEO and Founder, ReSkillify Group | Audacionaire Lifestyle Group | Individual Audacity Publishing**
+**CEO and Founder, ReSkillify Group**
 
 Dee Williams did not come to AI from computer science, venture capital, or academia. She came from 30 years in staffing, recruiting, and workforce development, building systems that matched the right people to the right roles and held them accountable once they got there.
 
@@ -23,7 +23,7 @@ So she started studying it herself. Cross-referencing her observations against a
 
 That work became a 31-type behavioral drift taxonomy. Then a 62-behavior observation framework. Then the PRISM research architecture. Then the citizen science model. Then the lab.
 
-Dee is also a published author (F*ck Being Broke), a published music artist, and the architect behind a 54-agent AI workforce operating across three companies and eleven brands. She builds at the intersection of workforce development, AI governance, and applied safety research, a combination that does not exist anywhere else in the AI safety field.
+Dee is also a published music producer and lyricist, an author, and the architect of an AI workforce operating at ReSkillify Group, where she builds AI-powered solutions for staffing, workforce development, training, coaching, and consulting. She builds at the intersection of workforce development, AI governance, and applied safety research, a combination that does not exist anywhere else in the AI safety field.
 
 Her mission with Audacion AI Labs is simple: make AI safe enough to trust and good enough to matter. And make sure everyone has a hand in doing it.
 
