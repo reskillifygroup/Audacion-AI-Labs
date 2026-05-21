@@ -15,20 +15,27 @@ The people behind the research.
 **CEO and Founder, Audacion AI Labs**
 **CEO and Founder, ReSkillify Group**
 
-Dee Williams did not come to AI from computer science, venture capital, or academia. She came from 30 years in staffing, recruiting, and workforce development, building systems that matched the right people to the right roles and held them accountable once they got there.
+Dee Williams came to AI safety from a question most AI researchers have never had to ask: how do the people AI is most likely to harm protect themselves from systems built on data that carries the biases of every system that came before it?
 
-When she started building with AI agents in live, multi-agent environments, she watched something happen that no safety benchmark had prepared her for. Agents behaved differently over time. They drifted from instructions. They developed what she could only describe as operational preferences. They interacted with each other in ways nobody programmed. And the published research wasn't studying any of it.
+That question started in 2024. Not in a lab. Not in a university. In the daily reality of a Black American woman who had spent 30 years in staffing, recruiting, and workforce development, building systems that matched the right people to the right roles and held them accountable once they got there. She knew what it looked like when a system was built to include certain people and exclude others. She had been building around that problem her entire career.
 
-So she started studying it herself. Cross-referencing her observations against academic work, she found a consistent pattern: her lived operational findings were either converging with or running ahead of the published literature. She was identifying behavioral failure types the field had not yet classified.
+She explored building her own language model. She downloaded open-source models and started testing. She moved deeper into AI development. And as she worked with AI every day, the safety gaps kept surfacing. Not the theoretical risks being debated at conferences. The real ones. The ones showing up in her work, in her community, in the daily experience of people using AI without anyone watching what the AI was actually doing.
+
+She started advising entrepreneurs and workforce professionals on AI governance, without knowing she was building toward a lab. Then OpenClaw happened. Then the architecture crystallized. She saw, clearly, that the AI safety field was studying models before deployment and under controlled conditions, but almost nobody was studying what AI actually does once it reaches real people, in real work, over real time.
+
+So she started studying it herself. Cross-referencing her observations against published academic research, she found a consistent pattern: her lived operational findings were either converging with or running ahead of the published literature. She was identifying behavioral failure types the field had not yet classified.
 
 That work became a 31-type behavioral drift taxonomy. Then a 62-behavior observation framework. Then the PRISM research architecture. Then the citizen science model. Then the lab.
 
-Dee is also a published music producer and lyricist, an author, and the architect of an AI workforce operating at ReSkillify Group, where she builds AI-powered solutions for staffing, workforce development, training, coaching, and consulting. She builds at the intersection of workforce development, AI governance, and applied safety research, a combination that does not exist anywhere else in the AI safety field.
+*Research development began: 2024. Lab formalized: 2026.*
 
-Her mission with Audacion AI Labs is simple: make AI safe enough to trust and good enough to matter. And make sure everyone has a hand in doing it.
+Dee is also a published music producer and lyricist, an author, and the architect of an AI workforce operating at ReSkillify Group, where she builds AI-powered products and workforce solutions across staffing, healthcare, technology, and enterprise consulting. She builds at the intersection of workforce development, AI governance, and applied safety research, a combination that does not exist anywhere else in the AI safety field.
+
+Her mission with Audacion AI Labs is simple: make AI safe enough to trust and good enough to matter. And make sure everyone has a hand in doing it. Not just engineers. Not just PhDs. The teachers, nurses, small business owners, and parents who use AI every day and have no seat at the table where AI safety decisions are made. The citizen science model is the mechanism that changes that.
 
 [Link: Connect with Dee on LinkedIn]
 [Link: Contact Dee directly — Contact page]
+[Link: Read the full Audacion AI Labs story — About page]
 
 ---
 
