@@ -15,7 +15,7 @@ You don't need a lab coat to fund the future of AI safety.
 
 Every major AI safety lab in the world is funded by the same small circle of institutional donors and the same companies whose models need to be studied. Audacion AI Labs is building something different: a research lab funded by the people who care about getting AI right, not just the people who profit from getting it fast.
 
-Your donation goes directly toward building the scientific foundation that AI governance currently lacks. The research that tells us how AI actually behaves after deployment, in real work, with real humans, over real time. The research that 98% of the field is not doing.
+Your donation goes directly toward sustaining and expanding the scientific foundation that AI governance currently lacks. The research that tells us how AI actually behaves after deployment, in real work, with real humans, over real time. The research that 98% of the field is not doing.
 
 This is not charity. This is an investment in the safety of every AI system you and your family will ever use.
 
@@ -30,7 +30,7 @@ This is not charity. This is an investment in the safety of every AI system you 
 
 Audacion AI Labs is committed to transparency. We will publish an annual financial summary showing how donor funds are allocated across four categories:
 
-**Research (target: 50% or more of all funds):** Researcher compensation, publication costs, peer review, data analysis, and research tools. Right now, this means building the field's first post-deployment AI behavior taxonomy (62 observable behaviors and growing, 15 of which exist in no published framework anywhere), conducting the longitudinal studies that reveal patterns invisible in any single session, and publishing findings that the entire field can use. The majority of every dollar goes here because this is why the lab exists.
+**Research (target: 50% or more of all funds):** Researcher compensation, publication costs, peer review, data analysis, and research tools. Right now, this means running the field's first post-deployment AI behavior taxonomy (62 observable behaviors and growing, 15 of which exist in no published framework anywhere), conducting the longitudinal studies that reveal patterns invisible in any single session, and publishing findings that the entire field can use. The majority of every dollar goes here because this is why the lab exists.
 
 **Technology (target: 20%):** Citizen science platform development, browser extension, API layer, data pipeline, and infrastructure. This is what makes one billion observations possible: the tools that let a teacher in Ohio or an engineer in Lagos report an AI behavior in 30 seconds and have that observation enter a five-layer research pipeline that transforms it into published science.
 
