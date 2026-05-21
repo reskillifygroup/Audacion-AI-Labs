@@ -15,7 +15,7 @@ The people behind the research.
 **CEO and Founder, Audacion AI Labs**
 **CEO and Founder, ReSkillify Group | Audacionaire Lifestyle Group | Individual Audacity Publishing**
 
-Dee Williams did not come to AI from computer science, venture capital, or academia. She came from 20+ years in staffing, recruiting, and workforce development, building systems that matched the right people to the right roles and held them accountable once they got there.
+Dee Williams did not come to AI from computer science, venture capital, or academia. She came from 30 years in staffing, recruiting, and workforce development, building systems that matched the right people to the right roles and held them accountable once they got there.
 
 When she started building with AI agents in live, multi-agent environments, she watched something happen that no safety benchmark had prepared her for. Agents behaved differently over time. They drifted from instructions. They developed what she could only describe as operational preferences. They interacted with each other in ways nobody programmed. And the published research wasn't studying any of it.
 

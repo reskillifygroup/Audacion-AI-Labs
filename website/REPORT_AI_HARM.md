@@ -68,6 +68,7 @@ You control what happens with your report. Every action beyond our internal revi
 - The AI exposed my private information
 - The AI is being used to create harmful content about me
 - I feel dependent on AI in a way that scares me
+- The AI reinforced false beliefs, delusions, or harmful thought patterns
 - Something else (please describe)
 
 **What happened?** (required, free text)
@@ -163,9 +164,18 @@ Thank you for your courage in reporting. It makes a difference.
 
 ---
 
+## SECTION 8: FOR ORGANIZATIONS
+
+If you are an AI company, platform, or organization that wants to build harm reporting into your product, Audacion AI Labs offers a Partner Integration API. Your users can report directly to an independent third party without leaving your platform. You receive anonymized, aggregated safety data about your model's impact. Your users get an independent voice. Everyone benefits.
+
+[Button: "Learn About the Partner API" links to Partners page]
+[Button: "Contact Us About Integration" links to Contact page]
+
+---
+
 ## DESIGN NOTES
 
-- Background: can be dark like rest of site OR consider a slightly warmer/softer treatment for this page since the audience may be distressed. Test both.
+- Background: LIGHT. White or very light gray. This is not a marketing page. This is a care page. A person in distress should not be staring at a dark screen. This is one of the few pages that breaks from the dark marketing aesthetic intentionally.
 - Crisis resources section: red left-border accent. Always visible. Does not collapse. Does not require scrolling past other content to find.
 - Form: clean, spacious, not intimidating. Large text fields. Clear labels. No required fields that feel invasive.
 - Urgency selector: if "Crisis" is selected, the crisis resources section should visually highlight (glow, expand, or animate to draw attention) BEFORE the rest of the form loads.
@@ -174,3 +184,4 @@ Thank you for your courage in reporting. It makes a difference.
 - The overall tone of this page should feel safe. Not clinical. Not corporate. Not legal. A person who is hurting should feel like they found somewhere that takes them seriously.
 - Mobile: form must work flawlessly on phone. Many people experiencing AI harm will report from their phone while it is happening.
 - Accessibility: screen reader compatible. High contrast text. Clear tab order through form fields.
+- A small note at the top of the form: "This form is private. Your responses are encrypted and seen only by our review team."
