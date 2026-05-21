@@ -7,7 +7,7 @@
 
 ### If AI has caused harm to you or someone you know, we want to hear about it.
 
-You do not need an account. You do not need to be a contributor. You do not need to explain yourself. Just tell us what happened.
+You do not need an account. You do not need to be a contributor. You do not need to explain yourself. Just tell us what happened. You have three ways to do that.
 
 Your report helps us understand what AI does in the real world so we can help make it safer for everyone.
 
@@ -28,6 +28,27 @@ Your report helps us understand what AI does in the real world so we can help ma
 **International Association for Suicide Prevention** — https://www.iasp.info/resources/Crisis_Centres/ (crisis centers by country for international visitors)
 
 These resources are here because some AI harms touch on mental health, emotional wellbeing, and personal safety. You do not have to be in crisis to use this page. But if you are, please reach out to these services first. They are staffed by real people who can help right now.
+
+---
+
+## SECTION 3: THREE WAYS TO REPORT
+
+### Report through our platform
+If you have an account or want to create one, you can submit your report through the full Audacion observation tool. This gives you the complete taxonomy, structured evidence capture, and the ability to track your report over time. Your report is tagged as a harm report and routed directly to our Behavioral Health Advisor.
+
+[Button: "Report Through the Platform" links to Start Observing / Sign Up]
+
+### Report without an account
+If you do not want to create an account, use the form below. No login. No onboarding. Just tell us what happened, which AI was involved, and how urgent it is. You can upload evidence or keep it simple. Your report still enters our system and is reviewed with the same care and priority.
+
+[Button: "Go to the Form" scrolls to Section 5 form below]
+
+### Prefer to talk to a human?
+Some harm cannot be typed. It needs to be said. If you would rather speak with someone directly, call or text us.
+
+**Call or text: (424) 999-0548**
+
+This is our direct line. A real person will hear you.
 
 ---
 
@@ -157,6 +178,8 @@ We are a research lab, not a regulatory body. We cannot force a company to take 
 You should never have to fight an AI to be believed, to be safe, or to be treated with dignity. If that happened to you, it matters. And documenting it is one of the most important things you can do to make sure it happens to fewer people in the future.
 
 Thank you for your courage in reporting. It makes a difference.
+
+If you would rather talk than type: **(424) 999-0548.** Call or text. We are here.
 
 [Button: "Submit a Report" scrolls to form]
 [Button: "Become a Contributor" links to Contribute page]
