@@ -22,19 +22,22 @@ Less than 2% of AI safety research studies AI in the conditions where risk actua
 
 ## WHAT YOUR FUNDING ENABLES
 
-Every dollar that enters Audacion AI Labs goes directly toward building the scientific foundation that AI governance currently lacks.
+The architecture is built. The taxonomy exists. The PRISM framework is designed. The citizen science model is ready. What your funding does is sustain the engine, expand the reach, and turn the science into something the world can use.
 
-### The Research
-Fund the studies that produce the missing science. Your funding builds the field's first post-deployment AI behavior taxonomy: 62 observable behaviors mapped across five PRISM dimensions, 15 of which exist in no published framework anywhere. It produces longitudinal studies tracking how AI systems behave over time in real-world conditions, published findings the entire field can build on, and open frameworks that become the foundation for AI governance policy. Less than 2% of AI safety research covers this territory. Your grant changes that number.
+### Sustain the Research
+The field's first post-deployment AI behavior taxonomy (62 observable behaviors, 15 original to this lab) exists. The PRISM framework covering five research dimensions no other lab studies together is designed. Longitudinal studies tracking how AI behaves over real time in real conditions are underway. Your funding keeps this science engine running: researcher compensation, data analysis, peer review, publication costs, and the ongoing expansion of the taxonomy as citizens discover new behaviors. The research does not pause. Neither should the funding.
 
-### The Tool
-Fund the citizen science platform that makes one billion observations possible. A browser extension that lets any AI user report a behavioral observation in 30 seconds. A reporting interface with three engagement depths. A five-layer data pipeline that transforms a single citizen observation into classified, validated, publishable research data. An API layer that lets researchers query the world's first post-deployment AI safety dataset. This is the infrastructure. Your funding builds it.
+### Expand the Tools
+The citizen science platform, the browser extension, the reporting interface, the five-layer data pipeline. These need continued development. But beyond that, we need MORE tools. More ways for more people to contribute data. More surfaces for observation. More entry points into the research. The goal is one billion observations, and reaching that number requires a tool ecosystem that meets people wherever they use AI. Your funding builds the infrastructure that scales citizen science from early adopters to a global movement.
 
-### The People
-Fund the researchers, fellows, and staff who turn raw observations into real science and real solutions. Analysts who find the patterns. Researchers who publish the findings. Engineers who build the tools. A dedicated Behavioral Health Advisor who reviews harm reports from citizens experiencing real damage from AI systems. Policy minds who translate the science into governance that organizations and governments can actually use. Every hire accelerates the path from a field observation to a safer AI system.
+### Spread the Word
+You cannot reach one million contributors if nobody knows you exist. Your funding powers the awareness infrastructure that gets the lab in front of the people who need to find it: billboards, commercials, podcast sponsorships, visibility at local and professional sporting events, PR campaigns, social media, community partnerships, and grassroots outreach. Reach is a research multiplier. More awareness means more contributors. More contributors means more data. More data means better science. This is not marketing. This is research acceleration.
 
-### The Community
-Fund the community infrastructure that connects one million contributors to each other and to the lab. The PRISM Research Fellowship that takes citizens from first observation to full fellowship status. The citizen discovery attribution program that credits contributors who identify new AI behaviors, like astronomers discovering new objects. Events. Recognition. A movement requires more than a mission. It requires a home.
+### Fund the Operations
+The administrative, legal, and organizational backbone that keeps the lab running. HR, accounting, compliance, infrastructure, office space, and the operational systems that let researchers focus on research instead of logistics. Not glamorous. Essential. We commit to keeping operations at or below 15% of total spend.
+
+### Power the Partnerships
+Fund the lab's ability to partner with organizations who can use the research to build better, safer AI products, services, and tools. But partnerships are not just about handing over findings. They include training: making this knowledge available to anyone and teaching people how to engage with AI safely, how to use it responsibly, and how to recognize when something is wrong. That training creates an informed public. That informed public generates better observational data back into the citizen science pipeline. That better data produces better research. And that better research creates the evidence base for real laws and real governance that protect both humans and AI. The cycle is: research feeds partnerships, partnerships fund training, training creates safer usage, safer usage generates better data, better data produces better science, and better science informs governance that actually makes sense. Your funding powers every turn of that wheel.
 
 [Button: "Start a Conversation"]
 
@@ -128,7 +131,7 @@ Have you or someone you know been harmed by AI? Report AI Harm.
 - SITE-WIDE: "Report AI Harm" button and "Donate" button in top header bar above menu, always visible
 - SITE-WIDE: Live Counter Bar in header (Contributors: X of 1,000,000 | Observations: X of 1,000,000,000)
 - Video at top when ready, content carries the page until then
-- What Your Funding Enables section works well as four cards with icons
+- What Your Funding Enables section works well as five cards with icons (Sustain, Expand, Spread, Operations, Partnerships)
 - Why This Lab section should feel bold and confident, not defensive
 - The Numbers section could be a visual counter or infographic style block
 - Ways to Support section: each category as a distinct card with its own CTA
