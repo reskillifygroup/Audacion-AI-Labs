@@ -1,5 +1,5 @@
 # Audacion AI Labs — Support the Research Page Content
-## Final Draft | May 17, 2026
+## Updated Draft | May 20, 2026
 
 ---
 
@@ -45,6 +45,16 @@ You're halfway to Fellowship. At this level, you've seen patterns most people mi
 ### PRISM Research Fellow (1,000 observations)
 You completed your contribution to the billion. This is the highest recognition the PRISM Research Fellowship offers. Full Fellowship status. A formal certificate from Audacion AI Labs. A title you carry on your LinkedIn, your resume, your conference badge. You didn't just participate. You helped build the foundation.
 
+### Citizen Discovery Attribution
+
+There is one more recognition that has no threshold. It can happen on your first observation or your five hundredth: if you describe something in your own words that the research team later formalizes as a new behavioral type in the taxonomy, you are credited as the discoverer.
+
+Like citizen astronomers who discover new celestial objects, your name goes on it. "Type 63: [Behavior Name], discovered by [YourHandle], 2026." Your observation becomes a permanent category in the field's first post-deployment AI behavior taxonomy. It appears in published research. It gets cited. It gets studied. And it started because you noticed something nobody else had named.
+
+This is not a contest. There is no deadline. New behaviors emerge as AI evolves. The taxonomy grows because citizens like you see things researchers in a lab cannot. Every observation is a chance to name something the field does not yet have language for.
+
+[Button: "Start Observing"]
+
 ---
 
 ## THE GOAL
@@ -89,16 +99,21 @@ In one sentence, why do you want to contribute? [Optional]
 ## BOTTOM LINKS
 
 Not ready to contribute but want to stay close? [Follow the research.]
-Interested in funding or partnering? [Support the research.]
+Interested in funding or partnering? [Contribute to the research.]
+Have you or someone you know been harmed by AI? [Report AI Harm.]
+Questions? Call or text us at (424) 999-0548.
 
 ---
 
 ## DESIGN NOTES
 
 - Same dark background as rest of site
+- SITE-WIDE: "Report AI Harm" button and "Donate" button in top header bar, Live Counter in header (left/center)
 - Video at top when ready, content carries the page until then
-- Tier section should be visually distinct, four cards or four rows with badges/icons
+- Tier section should be visually distinct: four cards or four rows with badges/icons
 - Each tier could carry a PRISM beam color (Red for entry, Gold for Senior, Green for Expert, Blue for Fellow) or a progression gradient
+- Citizen Discovery Attribution section should be visually distinct from the tiers: different styling, perhaps a callout box or highlighted card. This is the "discover a star" moment, make it feel special.
 - Form should be simple, clean, minimal friction
 - After submit, redirect to Download page immediately
-- Live counter showing total contributors and total observations when tool is built (social proof toward impact goal)
+- CTAs: after opening, after tiers (including discovery attribution), after community section
+- Phone number (424) 999-0548 in bottom links (accepts calls and texts)
