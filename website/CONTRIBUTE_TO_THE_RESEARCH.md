@@ -13,7 +13,7 @@ The research exists. The infrastructure is designed. What's missing is you.
 
 ## OPENING
 
-Less than 2% of AI safety research studies AI in the conditions where risk actually lives. Audacion AI Labs was built to close that gap. We have the framework, the methodology, and a global citizen science model ready to deploy. What we need now are the partners and funders who understand that safe AI is not going to build itself.
+The research architecture is built. The five-pillar PRISM framework is designed. A 62-behavior observation taxonomy is ready. A global citizen science model is architected and waiting for deployment. What is missing is the funding to put it all into motion. Audacion AI Labs was built to close the gap between what AI safety research covers and what it leaves unstudied. We need partners and funders who understand that safe AI is not going to build itself.
 
 [Button: "Fund the Research"]
 [Button: "Download the Fact Sheet"]

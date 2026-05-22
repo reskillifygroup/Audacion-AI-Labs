@@ -11,7 +11,7 @@ Partner with the lab that studies what happens after deployment.
 
 ## OPENING
 
-Audacion AI Labs produces post-deployment AI safety research that no other lab is producing. Corporate Research Partners receive quarterly briefings where the research team translates published findings into actionable intelligence for their specific industry, deployment context, and governance needs. Partners get evaluations, training, advisory engagement, and a seat at the table where the science is being applied.
+Audacion AI Labs produces the post-deployment AI safety research your organization needs but cannot generate internally. Corporate Research Partners receive quarterly briefings where the research team translates published findings into actionable intelligence for their specific industry, deployment context, and governance needs. Partners get evaluations, training, advisory engagement, and a seat at the table where the science is being applied.
 
 If your organization deploys AI systems, this partnership gives you what pre-deployment benchmarks cannot: ongoing intelligence on how AI actually behaves in production, where governance gaps emerge, and what risks the field has not yet addressed.
 

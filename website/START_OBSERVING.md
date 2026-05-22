@@ -9,7 +9,7 @@
 
 Every time you use AI and something feels off, that moment is data. Every time an AI contradicts itself, ignores your instructions, makes something up, or shifts its behavior in a way you cannot explain, you are witnessing something the research world needs to see.
 
-Right now, less than 2% of AI safety research studies what happens after AI reaches real people. You are a real person. You are using AI every day. What you see matters.
+Right now, almost no one is studying what AI does after it reaches you. Not the companies that built it. Not the labs that tested it before launch. The moment AI enters your workflow, your classroom, your family's daily life, the research stops and the real behavior starts. You are living in that gap every day. What you see in that gap matters, and now there is somewhere to report it.
 
 Audacion AI Labs built the tools that turn your everyday AI experience into research-grade data. No science background required. No technical expertise needed. Just your attention, your instincts, and a few seconds when something happens.
 
