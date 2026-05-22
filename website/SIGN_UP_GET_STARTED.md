@@ -68,7 +68,7 @@ Optional. If you want to receive updates about the research, new features, or yo
 
 [Checkbox, required] I agree to the Terms of Service and Privacy Policy. [Links to Terms and Privacy pages]
 
-[Checkbox, required] I understand that my observations will be anonymized and aggregated for research purposes. My individual data will never be sold or shared with my identity attached.
+[Checkbox, required] I understand that my name and personal details are removed from my observations before they are used in research. My data is always combined with everyone else's so no individual can be identified. My individual data will never be sold.
 
 [Checkbox, optional] I would like my observations to be eligible for the AI Incident Database (AIID) if the research team determines they are relevant. (You can change this preference at any time in your profile settings.)
 
@@ -114,7 +114,7 @@ Forgot your password? [Link to password reset]
 Yes. Creating an account, submitting observations, earning points, and advancing through fellowship tiers is completely free. Always.
 
 **What will you do with my data?**
-Your observations are anonymized and aggregated for research. We publish findings as open research available to everyone. Your individual observations are never shared with your identity attached. You can read our full Privacy Policy for details.
+Your name and personal details are removed before your observations are used in any research. Your data is combined with thousands of other people's observations so nobody can tell which ones are yours. The combined findings are published as open research available to everyone. Your individual observations are never shared with your identity attached.
 
 **Can I delete my account later?**
 Yes. At any time. From your Profile settings. All your personal data is permanently deleted. Observations you submitted remain in the anonymized research dataset unless you request full removal.

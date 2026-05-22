@@ -107,7 +107,7 @@ Fellow (the highest tier, recognized as part of the research community)
 
 **You see what you are building.** Live counters on the site and in the tool show the total contributor count and total observations. You watch the numbers grow. You are part of something that is measurably moving forward.
 
-**Your data stays yours.** You can export your observations at any time. You can delete your account at any time. We never sell individual data. Research outputs are always anonymized and aggregated.
+**Your data stays yours.** You can export your observations at any time. You can delete your account at any time. We never sell individual data. Your name and personal details are always removed before your observations are used in research, and your data is always combined with everyone else's so no individual can be identified.
 
 [Button: "Create Your Free Account" links to Sign Up / Get Started page]
 
@@ -117,7 +117,7 @@ Fellow (the highest tier, recognized as part of the research community)
 
 ### Here is what happens after you press Submit.
 
-Your observation enters our research pipeline. It is classified against our taxonomy (62 behaviors across five PRISM research dimensions). It is aggregated with thousands of other observations. Patterns emerge that no individual could see alone. Cross-model comparisons reveal which AI systems behave differently. Temporal analysis shows how behavior changes over time.
+Your observation enters our research pipeline. It is classified against our taxonomy (62 behaviors across five PRISM research dimensions). It is combined with thousands of other observations. Patterns emerge that no individual could see alone. Cross-model comparisons reveal which AI systems behave differently. Temporal analysis shows how behavior changes over time.
 
 When observations cluster around something our taxonomy does not cover, we formalize a new category. The citizen who first reported it is credited.
 
