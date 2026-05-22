@@ -27,6 +27,28 @@ Audacion AI Labs exists to close that gap.
 
 [Live Counter Bar: "Contributors: X of 1,000,000 | Observations: X of 1,000,000,000" with progress bars]
 
+[VISUAL STAT BLOCKS — large numbers, scannable in 3 seconds, dark cards with white/purple text]
+**62** observable AI behaviors documented | **15** original discoveries | **7** unnamed phenomena | **31** drift types classified | **1,470+** incidents analyzed | **5** research dimensions
+
+---
+
+## SECTION 2B: THE RESEARCHER BEHIND THE RESEARCH
+
+[Photo of Dee Williams]
+
+**Dee Williams, CEO and Founder**
+
+This research began with a question most AI safety researchers have never had to ask: how do the people AI is most likely to harm protect themselves from systems built on data that carries the biases of every system that came before it?
+
+Dee Williams came to AI safety from 30 years in workforce development. She built the 31-type behavioral drift taxonomy, the 62-behavior observation framework, the PRISM research architecture, and the citizen science methodology from direct operational experience with AI in live multi-agent environments. Her findings were either converging with or running ahead of the published academic literature before she formalized the lab.
+
+Research development began: 2024. Lab formalized: 2026.
+
+[Button: "Read Her Full Story" links to Team page]
+[Button: "Connect on LinkedIn"]
+
+[VIDEO PLACEHOLDER: Space for 60-90 second founder video. "I started asking a question most AI safety researchers have never had to ask..." Embed when filmed.]
+
 ---
 
 ## SECTION 3: HOW WE STUDY AI SAFETY (PRISM framework)
@@ -162,6 +184,7 @@ Every one of these organizations does essential work. Our contribution is the pi
 [Button: "Partner With Us" links to Partners page]
 [Button: "Collaborate on Research" links to Contact page]
 [Button: "Submit a Paper" links to Paper Submission Guidelines page]
+[Button: "Join Our Research Team" links to Careers page]
 
 ---
 
@@ -183,6 +206,13 @@ Our research is open. As studies are completed, they are published here and subm
 
 [Link: "Submit Your Research" links to Paper Submission Guidelines]
 [Link: "Subscribe to Publication Alerts" links to Follow page]
+
+### Conferences and Events
+
+**PRISM Summit 2027** — The first annual conference dedicated to post-deployment AI safety research. Paper submissions, citizen presentations, partner demonstrations, and keynotes. Details and call for papers at the PRISM Summit page.
+
+[Button: "PRISM Summit 2027" links to PRISM Summit page]
+[Button: "Paper Submission Guidelines" links to Paper Submission Guidelines page]
 
 ---
 
@@ -231,6 +261,8 @@ Ready?
 
 [Button: "Read All Posts" links to Blog page]
 [Button: "Subscribe to Updates" links to Follow page]
+
+[NEWSLETTER SIGNUP: Email capture field with "Follow the Research" label. "Get findings, new behaviors, and lab updates delivered to your inbox. No spam. Unsubscribe anytime." Submit button in Audacion purple.]
 
 ---
 
