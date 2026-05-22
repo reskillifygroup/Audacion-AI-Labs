@@ -186,6 +186,10 @@ These are Phase 1 backend features. Build the logged-in experience:
 
 This contains: 13 database tables with full schemas, 5 user roles, Partner Integration API endpoints, security requirements, harm report flow, media handling, Stripe integration, phased build sequence, and the complete design brief.
 
+**Architecture:** Enterprise-ready. Multi-tenant. Multi-user. Build this to scale from hundreds to millions of users. Four user roles (Citizen, Research Team, Data Partner, Admin) with different access levels, dashboards, and permissions. Data isolated between roles.
+
+**Security:** The tech spec has 10 security requirements. The short version: production-grade authentication (protect against brute force, session hijacking, unauthorized access). All sensitive data encrypted. Harm reports get the highest protection level (restricted access, audit-logged). Automated backups outside the primary platform. Rate limiting on all endpoints. No secrets in code or Git. GDPR/CCPA compliance. Build for portability (no platform lock-in). Show us what security measures you are implementing. We trust your platform expertise. Meet the requirements however works best on your platform.
+
 **Key integrations:**
 - Stripe: donations
 - Credly (or equivalent): LinkedIn credential issuance for fellowship tiers
