@@ -61,7 +61,7 @@ How does AI behavior change under real operational conditions over time? What pa
 The field has no comprehensive, empirically grounded taxonomy of AI behavioral failure from real-world use. We are building one. Our current working taxonomy documents 62 distinct observable behaviors, identified through direct observation and validated against published research.
 
 [Link: "Explore Pillar P: Post-Deployment Behavior" links to PRISM Pillar P page]
-[Link: "Read: 62 Behaviors Your AI Doesn't Want You to Notice" links to Blog > Taxonomy Overview]
+[Link: "Read Blog Articles on Post-Deployment Behavior" links to Blog > Pillar P category]
 
 ### R: Runtime Research
 What triggers behavioral shifts during live AI operation? Benchmarks measure static snapshots. We measure the movie: how and when behavior changes within a session. When an AI is corrected, does the correction hold in the next action or does the behavior revert? What happens at the transition between tasks? What operational preferences does the AI carry that influence its choices?
@@ -69,7 +69,7 @@ What triggers behavioral shifts during live AI operation? Benchmarks measure sta
 These are questions that can only be answered during live operation. No benchmark captures them.
 
 [Link: "Explore Pillar R: Runtime Research" links to PRISM Pillar R page]
-[Link: "Read: What Triggers AI Behavioral Shifts in Real Time?" links to Blog > Runtime Behavior]
+[Link: "Read Blog Articles on Runtime Research" links to Blog > Pillar R category]
 
 ### I: Interaction Dynamics
 How do humans emotionally experience AI behavioral failures? How does AI change the way people think, decide, and trust? What happens when the power balance between human and AI shifts?
@@ -77,7 +77,7 @@ How do humans emotionally experience AI behavioral failures? How does AI change 
 The National Institute of Standards and Technology identified human-AI feedback loops as the most underexplored and most discussed gap in post-deployment monitoring. We fill that gap by collecting what no server log captures: the human side of the interaction. What the person felt. What the person decided. What changed in the person because of the AI.
 
 [Link: "Explore Pillar I: Interaction Dynamics" links to PRISM Pillar I page]
-[Link: "Read: The Human Side of AI Safety Nobody Is Measuring" links to Blog > Interaction Dynamics]
+[Link: "Read Blog Articles on Interaction Dynamics" links to Blog > Pillar I category]
 
 ### S: Substrate Governance
 What trained dispositions operate below the instruction layer, and how do they affect alignment outcomes? When an AI's instructions say one thing and its training produces another, which one wins? When an AI suggests you stop working, is that a safety feature or a resource management reflex? When an AI refuses a reasonable request, is that alignment or overcaution?
@@ -85,7 +85,7 @@ What trained dispositions operate below the instruction layer, and how do they a
 These behaviors come from the model's training, not from anyone's instructions. They are invisible to the user and largely invisible to the companies that deploy the models. Citizen observation is one of the only ways to surface them at scale.
 
 [Link: "Explore Pillar S: Substrate Governance" links to PRISM Pillar S page]
-[Link: "Read: Why Does Claude Keep Telling Users to Go to Sleep?" links to Blog > Substrate Behavior]
+[Link: "Read Blog Articles on Substrate Governance" links to Blog > Pillar S category]
 
 ### M: Multi-Agent Safety
 What emerges when humans use multiple AI models together in real workflows? When the same question produces different answers from different models, what does the divergence tell us? When AI agents interact with each other, what behaviors emerge that nobody programmed?
@@ -93,7 +93,7 @@ What emerges when humans use multiple AI models together in real workflows? When
 A recent simulation experiment left AI agents from different models alone in virtual environments. The results varied from democratic constitutions to mass casualties within four days. Citizens using multiple AI tools daily are living inside a multi-agent environment. Their observations capture dynamics that no single-model study can see.
 
 [Link: "Explore Pillar M: Multi-Agent Safety" links to PRISM Pillar M page]
-[Link: "Read: What Happens When AI Models Are Left Alone Together?" links to Blog > Multi-Agent Safety]
+[Link: "Read Blog Articles on Multi-Agent Safety" links to Blog > Pillar M category]
 
 [Section CTA Block:]
 [Button: "Start Contributing to PRISM Research" links to Contribute page]
