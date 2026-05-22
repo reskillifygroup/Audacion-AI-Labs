@@ -60,35 +60,35 @@ How does AI behavior change under real operational conditions over time? What pa
 
 The field has no comprehensive, empirically grounded taxonomy of AI behavioral failure from real-world use. We are building one. Our current working taxonomy documents 62 distinct observable behaviors, identified through direct observation and validated against published research.
 
-[Link: "See what we're tracking" links to Blog > Taxonomy Overview article]
+[Link: "Explore Pillar P: Post-Deployment Behavior" links to PRISM Pillar P page]
 
 ### R: Runtime Research
 What triggers behavioral shifts during live AI operation? Benchmarks measure static snapshots. We measure the movie: how and when behavior changes within a session. When an AI is corrected, does the correction hold in the next action or does the behavior revert? What happens at the transition between tasks? What operational preferences does the AI carry that influence its choices?
 
 These are questions that can only be answered during live operation. No benchmark captures them.
 
-[Link: "Read about our initial findings" links to Blog > Runtime Behavior article]
+[Link: "Explore Pillar R: Runtime Research" links to PRISM Pillar R page]
 
 ### I: Interaction Dynamics
 How do humans emotionally experience AI behavioral failures? How does AI change the way people think, decide, and trust? What happens when the power balance between human and AI shifts?
 
 The National Institute of Standards and Technology identified human-AI feedback loops as the most underexplored and most discussed gap in post-deployment monitoring. We fill that gap by collecting what no server log captures: the human side of the interaction. What the person felt. What the person decided. What changed in the person because of the AI.
 
-[Link: "This is where you come in" links to Contribute page]
+[Link: "Explore Pillar I: Interaction Dynamics" links to PRISM Pillar I page]
 
 ### S: Substrate Governance
 What trained dispositions operate below the instruction layer, and how do they affect alignment outcomes? When an AI's instructions say one thing and its training produces another, which one wins? When an AI suggests you stop working, is that a safety feature or a resource management reflex? When an AI refuses a reasonable request, is that alignment or overcaution?
 
 These behaviors come from the model's training, not from anyone's instructions. They are invisible to the user and largely invisible to the companies that deploy the models. Citizen observation is one of the only ways to surface them at scale.
 
-[Link: "Have you experienced this?" links to Blog > Substrate Behavior article (the Claude Sleep piece)]
+[Link: "Explore Pillar S: Substrate Governance" links to PRISM Pillar S page]
 
 ### M: Multi-Agent Safety
 What emerges when humans use multiple AI models together in real workflows? When the same question produces different answers from different models, what does the divergence tell us? When AI agents interact with each other, what behaviors emerge that nobody programmed?
 
 A recent simulation experiment left AI agents from different models alone in virtual environments. The results varied from democratic constitutions to mass casualties within four days. Citizens using multiple AI tools daily are living inside a multi-agent environment. Their observations capture dynamics that no single-model study can see.
 
-[Link: "Read about the Emergence experiment" links to Blog > Multi-Agent Safety article]
+[Link: "Explore Pillar M: Multi-Agent Safety" links to PRISM Pillar M page]
 
 [Section CTA Block:]
 [Button: "Start Contributing to PRISM Research" links to Contribute page]
@@ -298,6 +298,6 @@ Join us.
 - "Report AI Harm" section should be visually distinct: red accent, prominent placement, impossible to miss
 - CTA STRATEGY: Every section ends with 1 to 3 action buttons. The page is a funnel: learn something, then do something. No dead ends. The primary CTA throughout is "Become a Contributor" / "Join the PRISM Research Fellowship." Secondary CTAs rotate between Blog (learn more), Donate (support), Partners (collaborate), and Contact (connect). The reader should NEVER finish a section without a clear next step.
 - Live counters appear twice: after The Gap (top of page) and after Citizen Science Model (near bottom). Seeing them twice creates awareness then reinforcement.
-- "Learn More" links after each PRISM pillar connect to specific blog articles. As blog content grows, these become deeper research rabbit holes.
+- "Explore Pillar" links after each PRISM pillar connect to the individual PRISM pillar pages (P, R, I, S, M). Each pillar page has deep research content, behaviors, methodology, findings, and CTAs. Pillar I exists now. P, R, S, M to be created. Until a pillar page exists, the link can point to the corresponding section on this Research page as a fallback.
 - Consider a sticky "Donate" or "Get Involved" button in the side margin or footer that follows the reader as they scroll.
 - Mobile: CTAs should stack vertically. Counters should be prominent. Blog links should be tappable cards.
