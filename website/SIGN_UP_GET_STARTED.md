@@ -86,7 +86,7 @@ Once you create your account, you land on your Dashboard. Here is what you see:
 
 **Your observation counter.** Starts at zero. Every observation you submit adds to it. This is your personal contribution to the research.
 
-**Your points and tier.** You start as a Field Researcher. As you submit observations, you earn points and advance through four fellowship tiers: Field Researcher, Senior Researcher, Expert Researcher, and Fellow.
+**Your points and tier.** You start as a Field Researcher. As you submit observations, you earn points and advance through four fellowship tiers: Field Researcher, Senior Researcher, Expert Researcher, and Fellow. Each tier is a verified digital credential you can add to your LinkedIn profile with one click. This is a professional credential, not a game badge.
 
 **The global counters.** How many total contributors have joined. How many total observations have been submitted. You are part of these numbers now.
 

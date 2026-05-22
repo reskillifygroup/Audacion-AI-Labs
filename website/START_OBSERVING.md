@@ -103,6 +103,8 @@ Senior Researcher (consistent contributors)
 Expert Researcher (deep contributors and investigators)
 Fellow (the highest tier, recognized as part of the research community)
 
+**Your tier is a real credential, not just a badge.** When you reach a new fellowship tier, you receive a verified digital credential you can add directly to your LinkedIn profile. "PRISM Senior Researcher, Audacion AI Labs" or "PRISM Fellow, Audacion AI Labs" shows up in your Licenses and Certifications for every hiring manager, collaborator, journalist, and colleague to see. This is not a game achievement. This is a professional credential that says you are a recognized contributor to the largest post-deployment AI safety research program in the world. One click to add it to your profile. It goes where you go.
+
 **Discovery credit.** When your observation leads to a new behavior being added to our taxonomy, you are credited as the discoverer. Like naming a star. Your name (or handle, if you prefer anonymity) is attached to that discovery permanently. Discoveries are displayed on the Taxonomy Explorer page, on your citizen profile, and celebrated in our blog and at the annual PRISM Summit.
 
 **You see what you are building.** Live counters on the site and in the tool show the total contributor count and total observations. You watch the numbers grow. You are part of something that is measurably moving forward.
