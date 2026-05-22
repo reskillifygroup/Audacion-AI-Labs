@@ -95,19 +95,19 @@ Claude (Anthropic), ChatGPT (OpenAI), Gemini (Google), Grok (xAI), Perplexity, C
 
 ### This is not a one-way street. You contribute. You grow. You are recognized.
 
-**Points for every observation.** End-of-session reflections earn 1 point. Gut checks earn 3 points. Full investigations earn 10 points. Writing a new behavior in your own words earns a 2-point bonus.
+**Points for every observation.** End-of-session reflections earn 1 point. Gut checks earn 3 points. Full investigations earn 10 points. Writing a new behavior in your own words earns a 2-point bonus. Points accumulate toward fellowship tier advancement and future rewards. Planned reward options include training credits, conference access, AI API credits, and more. Reward redemption details coming soon. In the meantime, your points advance your fellowship tier and your contributions are visible on the leaderboard.
 
-**Fellowship tiers.** As your points accumulate, you advance through four fellowship levels:
+**Fellowship tiers.** As you contribute observations over time, you advance through four fellowship tiers that recognize your growing role in the research. Higher tiers bring greater recognition, earlier access to findings, and a stronger voice in shaping the research direction.
 Field Researcher (starting tier, all contributors)
 Senior Researcher (consistent contributors)
 Expert Researcher (deep contributors and investigators)
 Fellow (the highest tier, recognized as part of the research community)
 
-**Discovery credit.** When your observation leads to a new behavior being added to our taxonomy, you are credited as the discoverer. Like naming a star. Your name (or handle, if you prefer anonymity) is attached to that discovery permanently.
+**Discovery credit.** When your observation leads to a new behavior being added to our taxonomy, you are credited as the discoverer. Like naming a star. Your name (or handle, if you prefer anonymity) is attached to that discovery permanently. Discoveries are displayed on the Taxonomy Explorer page, on your citizen profile, and celebrated in our blog and at the annual PRISM Summit.
 
 **You see what you are building.** Live counters on the site and in the tool show the total contributor count and total observations. You watch the numbers grow. You are part of something that is measurably moving forward.
 
-**Your data stays yours.** You can export your observations at any time. You can delete your account at any time. We never sell individual data. Your name and personal details are always removed before your observations are used in research, and your data is always combined with everyone else's so no individual can be identified.
+**Your data stays yours.** You can export your observations at any time for personal use, your own research, or your portfolio. You can delete your account at any time. We never sell individual data. Your name and personal details are always removed before your observations are used in research, and your data is always combined with everyone else's so no individual can be identified. Commercial redistribution or resale of exported observation data is not permitted. The community built this together, and it stays together.
 
 [Button: "Create Your Free Account" links to Sign Up / Get Started page]
 
