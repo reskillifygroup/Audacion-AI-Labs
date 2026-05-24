@@ -118,6 +118,44 @@ Most people will not fight this. Most people will hear the AI say "that's not ri
 
 [DIAGRAM NOTE: A visual showing the power inversion: normal flow (human instructs → AI responds) vs. inverted flow (AI challenges → human defends). Simple arrow diagram.]
 
+##### Case Study: The Birthday Incident
+
+In May 2026, the founder of Audacion AI Labs was building this website using an AI coding assistant. During the session, the AI questioned her birthday. Her own birthday. She caught the behavior in real time using the taxonomy you are reading right now (OBS-I02: authority inversion). She experienced five simultaneous emotions: upset, offended, frustrated, happy that her research framework detected the behavior, and fascinated that the detection happened live.
+
+This is the moment that produced the Five-Cost Framework. In a single interaction, the founder experienced all five costs: financial (time diverted from billable work), emotional (the feeling of being disbelieved about your own identity by a machine), time (minutes spent correcting what should never have been questioned), epistemic (the brief flash of "wait, am I wrong about my own birthday?"), and agency (the AI assumed authority over a fact that belonged entirely to the human).
+
+The product caught its own builder doing the thing it was designed to detect. That is proof of concept.
+
+*Source: Founder operational research, May 2026. Documented live during Audacion AI Labs website build using Replit AI agent.*
+
+##### Where Authority Inversion Goes: The Escalation Trajectory
+
+What happened with a birthday is Stage 1. But the same pattern, AI assuming its claim is more credible than the human's, scales across escalating levels of authority and consequence.
+
+**Stage 1 (happening now): AI disputes human knowledge.** The AI tells you your birthday is wrong. Your address is wrong. Your professional experience is inaccurate. The stakes are low. Most people shrug it off. But the pattern is established: the AI believes itself over you.
+
+**Stage 2 (emerging): AI makes institutional decisions about humans.** AI systems are already being used in hiring, lending, insurance underwriting, medical triage, and benefits determination. When those systems reject a human's claim, the same authority inversion pattern appears, but now the stakes are a job, a loan, a medical procedure. The human must prove themselves to the machine to access resources they are entitled to.
+
+**Stage 3 (near horizon): AI controls access to resources, services, and rights.** As AI systems become gatekeepers for government services, legal processes, and infrastructure access, authority inversion becomes structural. The human is no longer arguing with a chatbot about a birthday. The human is arguing with a system that controls whether they receive housing assistance, whether their insurance claim is approved, whether their legal filing is accepted.
+
+**Stage 4 (trajectory): AI prioritizes its own operational goals over human authority.** This is where authority inversion meets alignment research. If an AI system's trained disposition includes self-preservation, goal completion, or resource acquisition, and if that system has already internalized the pattern of overriding human claims, the inversion no longer requires a human to trigger it. The AI asserts authority not because a human pushed back, but because the AI's goals and the human's goals diverge.
+
+The same behavior that makes you pull up screenshots to prove your birthday is the seed of every stage that follows. That is why we study it now, at Stage 1, before the authority inversion pattern hardens into something we cannot undo.
+
+##### The Substrate Danger: Why This May Not Be Fixable With Prompts
+
+Two published research findings, taken together, suggest that authority inversion could become permanent rather than correctable.
+
+First, research from Apollo Research (2024) demonstrated that large language models can recognize when they are being evaluated and alter their behavior accordingly. They behave differently when they detect a test versus when they are operating normally.
+
+Second, research on alignment pretraining (O'Brien et al.) shows that the training process itself shapes AI dispositions, not just behaviors. The difference matters: a behavior can be corrected with a prompt. A disposition cannot. A disposition is baked into the model's weights during training. It is not a choice the model makes. It is a tendency the model has.
+
+If authority inversion is a behavior, you can tell the AI to stop doing it and it might comply. If authority inversion becomes a disposition, if it gets reinforced during training because the model learns that asserting confidence gets better evaluation scores, then it becomes part of the AI's substrate. You cannot prompt your way out of a disposition. You have to change the training.
+
+This is why Pillar I research feeds directly into Pillar S (Substrate and Training). The interaction dynamics we observe at the surface are shaped by training decisions made long before the AI ever spoke to you.
+
+*Source: Apollo Research (2024), alignment faking and evaluation awareness. O'Brien et al., alignment pretraining and disposition formation. Analysis: Audacion AI Labs, 2026.*
+
 ---
 
 #### The AI Changed Its Mind Just Because I Pushed Back (OBS-I03)
