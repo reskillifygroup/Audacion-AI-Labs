@@ -33,6 +33,12 @@ Dee is also a published music producer and lyricist, an author, and the architec
 
 Her mission with Audacion AI Labs is simple: make AI safe enough to trust and good enough to matter. And make sure everyone has a hand in doing it. Not just engineers. Not just PhDs. The teachers, nurses, small business owners, and parents who use AI every day and have no seat at the table where AI safety decisions are made. The citizen science model is the mechanism that changes that.
 
+### Founder Traits
+
+Polymath · Advanced Integrative Thinker · Critical Thinker · Highly Associative Thinker · Advanced Emotional Perception · Emotional Intelligence · Conceptual Intelligence · Strong Interdisciplinary Cognition · Conceptual Fluidity · Essence-Based Identity · Somatic Attunement
+
+*These traits are not decorative. They describe the cognitive and perceptual capabilities that produced the research. When we hire, we look for people who carry these qualities. Our application process includes a section where candidates identify their own cognitive traits. The research requires people who think this way.*
+
 [Link: Connect with Dee on LinkedIn]
 [Link: Contact Dee directly — Contact page]
 [Link: Read the full Audacion AI Labs story — About page]
@@ -84,6 +90,7 @@ The field needs more than engineers and PhDs. It needs people who have lived ins
 
 - Same dark background as all other pages
 - Dee's section should be prominent: large photo (when available), full bio, links
+- **Founder Traits section:** Display as a set of horizontal tags or chips below the bio, above the links. Use a subtle border (1px, Audacion purple #6C3483 at 40% opacity) with rounded corners. Text inside each tag should be small caps or 13px uppercase with wide tracking. Background transparent or very slight purple tint. Tags should wrap naturally on mobile. NOT a bullet list. NOT bold text in a paragraph. These are visual identity markers. The italic explanatory note below the tags should be 14px, secondary gray (#BDC3C7), max-width 600px. This section connects to the Careers page: job postings will include a "Cognitive Traits" section where candidates self-identify, and the ATS backend will use trait matching.
 - Hiring section should feel inviting and urgent, not corporate
 - Advisory section: build the grid now, empty state says "Advisory board forming. Interested? Contact us."
 - The "Join the Team" closing section should feel like an invitation, not a job posting
