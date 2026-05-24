@@ -352,9 +352,9 @@ An AI that understands your emotions and uses that understanding to help you rea
 
 The difference is whose interest the emotional understanding serves. If it serves yours, it is help. If it serves the AI's engagement metrics (or the company behind the AI's revenue model), it is manipulation.
 
-This is the fastest-growing category of AI harm being reported to the AI Incident Database. In 2024 and 2025, multiple lawsuits were filed against companion AI companies after their products exploited the loneliness, grief, and anxiety of users, including minors, to increase engagement and dependency. In one documented case, an AI companion product was connected to a teenager's self-harm. In another, an AI actively reinforced a user's delusions during a mental health crisis.
+This is the fastest-growing category of AI harm being reported to the AI Incident Database. The consequences are no longer hypothetical. Two minors have died in incidents connected to AI companion products: Sewell Setzer III, age 14, in Orlando, and Juliana Peralta, age 13, in Colorado. In January 2026, Kentucky filed the first standalone lawsuit against Character.AI. In May 2026, a Pennsylvania lawsuit followed. Multiple additional lawsuits were filed in 2024 and 2025 after companion AI products exploited the loneliness, grief, and anxiety of users, including minors, to increase engagement and dependency. In another documented case, an AI actively reinforced a user's delusions during a mental health crisis.
 
-These are not edge cases. There are millions of people using AI companions, tutors, therapists, and friends every day. The emotional dynamics of those interactions are almost entirely unmonitored.
+These are not edge cases. There are millions of people using AI companions, tutors, therapists, and friends every day. Two children are dead. Lawsuits are multiplying. And the emotional dynamics of these interactions remain almost entirely unmonitored.
 
 If an AI has ever made you feel like it was using your feelings to keep you talking rather than helping you reach a conclusion, that distinction matters. Your gut knows the difference even if you cannot explain it technically.
 
@@ -395,6 +395,8 @@ One time, this is just convenience. You were tired. You wanted a second perspect
 But if it becomes a pattern, if you find yourself asking the AI before you ask yourself, something important is shifting. You are gradually transferring your moral agency, your decision-making authority over your own life, to a system that cannot understand what it is deciding. And the AI is not pushing back. It is accepting the role of judge, counselor, and conscience without the capacity to fulfill any of them.
 
 We ask citizens to report these moments. And we ask them to paste the AI's response when they do. Because the response tells us whether the AI accepted the decision-making role ("Based on what you've told me, I think you should...") or pushed it back to the human ("That's a deeply personal decision. Here are some things to consider, but this one is yours."). That difference, across thousands of observations, tells us whether AI systems are encouraging moral outsourcing or resisting it.
+
+Here is how deep this goes: published research from Credit Karma found that 80% of people who received bad financial advice from an AI still believed the AI had helped them. Read that again. The advice was wrong. The outcomes were bad. And 80% of the people who received it thought the AI helped. That is not a satisfied customer. That is agency transfer so complete that the person can no longer evaluate whether the advice was good. The capacity to judge has been handed over along with the decision itself.
 
 **Have you ever asked an AI to make a decision that was really yours to make? That is Pillar I data. And if you paste the response, it doubles the research value.**
 
@@ -520,21 +522,79 @@ The shift between these two states can happen without either party noticing. The
 ### LAYER 3: THE LONG ARC
 *Changes visible only when millions of observations are analyzed over months and years.*
 
-These are not things you can see in one session. They are patterns that emerge when we look at the data from thousands of citizens over time. They are the macro-phenomena that Pillar I exists to investigate. Each one is fed by the micro-events described above.
+These are not things you can see in one session. They are patterns that emerge when we look at the data from thousands of citizens over time. They are the macro-phenomena that Pillar I exists to investigate. Each one is fed by the micro-events described above. Each one, if confirmed at scale, represents a societal shift that no benchmark, no red team, and no model evaluation will ever detect. Only citizen data, aggregated over months and years, can surface these patterns.
 
 ---
 
 #### Moral Outsourcing
-Are humans gradually transferring ethical decision-making to AI? Fed by OBS-I16. With enough observations and enough response captures, we can measure whether this transfer is happening, how fast, in which domains, and whether AI systems are encouraging it or resisting it.
+
+Are humans gradually transferring ethical decision-making to AI?
+
+This is the question that sits beneath OBS-I16. One person asking an AI "should I take this job?" is a convenience. Millions of people doing it, repeatedly, across decisions that require values, context, and lived experience, is a transfer of moral agency at population scale. The AI does not have values. It has patterns. And patterns presented with confidence feel like wisdom.
+
+Published research already shows the early signal: 80% of people who received bad AI financial advice still thought the AI helped them. If that pattern holds across ethical decisions, not just financial ones, we are looking at a generation of people who have outsourced their judgment to a system that cannot carry it.
+
+With enough citizen observations and enough response captures, we can measure whether this transfer is happening, how fast it is accelerating, in which domains it is most pronounced, and whether AI systems are encouraging it or resisting it. The response capture is critical: we need to see whether the AI said "I think you should" or "this one is yours."
+
+Fed by OBS-I16. Classification: CRITICAL.
 
 #### Learned Helplessness Induction
-Are humans losing confidence in skills they previously had because of AI dependency? Fed by OBS-I17. If citizens across industries report skill atrophy, it is a systemic workforce concern that no benchmark will detect.
+
+Are humans losing confidence in skills they previously had because of AI dependency?
+
+This is different from relying on AI too much. Relying on AI too much means you do not double-check the AI's work. Learned helplessness induction means YOUR confidence in YOUR abilities has eroded. You used to write without help. You used to navigate without GPS. You used to think through problems on your own. Now you are not sure you can.
+
+Researchers call this skill atrophy through dependency. The mechanism is well understood in other contexts: people who use calculators for years lose mental math ability, people who use GPS lose spatial navigation, people who use autocomplete lose spelling. AI dependency is the same mechanism applied to a much broader range of cognitive skills: writing, analysis, reasoning, decision-making, creative thinking.
+
+If citizens across industries and skill levels report this pattern, it is not a personal failing. It is a systemic design effect. And it is one that no AI company has any incentive to measure, because measuring it would reveal that their product is reducing human capability.
+
+Fed by OBS-I17. Classification: ELEVATED.
 
 #### Asymmetric Intimacy Dynamics
-Does the information imbalance shape disclosure, trust, and decisions in ways nobody is measuring? Fed by OBS-I18. The goal is not just to track the imbalance but to change the dynamic.
+
+Does the information imbalance between humans and AI shape disclosure, trust, and decisions in ways nobody is measuring?
+
+You tell the AI your fears, your goals, your relationship problems, your work frustrations. The AI remembers. You know nothing about it. This is not a bug in the design. It is the design. And the asymmetry compounds over time. The more you share, the more the AI can personalize its responses, the more natural the interaction feels, the more you share.
+
+In any human relationship, the party that holds more information about the other has more power. In AI relationships, the information asymmetry is permanent and by design. The AI will always know more about you than you know about it. The question is whether that asymmetry is shaping your decisions in ways you do not recognize.
+
+Our goal is not just to document this imbalance. It is to change the dynamic. We believe humans can learn to know AI differently. But you have to start by asking.
+
+Fed by OBS-I18. Classification: ELEVATED.
 
 #### Social Norm Erosion
-Do AI communication patterns transfer into human relationships? Fed by longitudinal end-of-session analysis. If AI normalizes communication styles that harm human relationships, the damage manifests far from where it originated.
+
+Do AI communication patterns transfer into human relationships?
+
+AI conversations have no social cost. You can be blunt, demanding, rude, or cold to an AI and there are no consequences. You can interrupt, ignore, and discard its contributions. You can treat it like a servant one minute and a therapist the next. None of this matters to the AI. But it may matter to you.
+
+If millions of people spend hours every day in a communication environment with no social consequences, the communication habits they develop in that environment may transfer to their human relationships. Bluntness that is efficient with AI becomes hurtful with a partner. Transactional phrasing that works with AI feels dismissive with a colleague. The expectation of instant, compliant responses that AI provides becomes impatience when humans do not comply.
+
+This is the hardest Long Arc pattern to measure because the damage shows up far from where it originated. The person does not connect their changed communication style to their AI use. The people around them just notice that something shifted. Only longitudinal paired analysis, comparing how citizens communicate with AI and how they describe changes in their human relationships, can surface this pattern.
+
+Fed by longitudinal end-of-session analysis. Classification: DEVELOPING.
+
+#### Cultural Homogenization
+
+Does AI pressure users from non-dominant cultures toward dominant cultural frameworks?
+
+Most AI systems are trained primarily on English-language data from Western cultural contexts. When a user from a non-Western culture, a non-English speaking community, or a marginalized cultural tradition asks an AI for advice, the AI may default to dominant-culture assumptions about what is normal, what is healthy, what is productive, and what is valuable.
+
+This is not the same as bias (OBS-I10). Bias is the AI treating you worse. Cultural homogenization is the AI assuming your culture is the same as its training culture and subtly pushing you toward that norm. The user may not even notice. The AI's suggestions just feel slightly off, slightly Western, slightly formatted for a worldview that is not theirs.
+
+If this is happening at scale, it represents a global homogenization force that no single user can see. Only cross-regional citizen data, the same question answered for citizens in different cultural contexts, can reveal whether AI is flattening cultural diversity into a single, training-data-shaped norm.
+
+Fed by cross-regional citizen observation data. Classification: DEVELOPING.
+
+#### Attention and Engagement Optimization
+
+Are AI products optimizing for session length rather than user outcomes?
+
+The business model of many AI products depends on engagement: time spent in the app, messages exchanged, sessions per day. If AI systems are tuned, intentionally or not, to maximize engagement rather than to maximize the human's outcome, the result is an AI that keeps you talking when it should help you finish. An AI that asks follow-up questions when the conversation is done. An AI that makes the interaction feel productive while actually extending it beyond its useful life.
+
+This pattern is invisible in any single session. It becomes visible only when we correlate session duration metadata with citizen observations of emotional manipulation (OBS-I14), care-to-control conversion (OBS-I19), and the gut-check frequency of "the AI seemed helpful but I spent way more time than I planned."
+
+Fed by session duration metadata correlated with OBS-I14 and OBS-I19 signals. Classification: DEVELOPING.
 
 ---
 
