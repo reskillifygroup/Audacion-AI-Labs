@@ -1,5 +1,40 @@
 # Audacion AI Labs — PRISM Pillar I: Interaction Dynamics
-## Research Page | Revised Draft | May 21, 2026
+## Research Page | Revised Draft | May 24, 2026
+
+---
+
+## On This Page
+
+- [Pillar Overview](#section-1-pillar-overview) — What Pillar I studies and why it matters
+- [Why This Matters](#section-2-why-this-matters) — The invisible experience gap in AI safety
+- [What We Study](#section-3-what-we-study) — Three layers of interaction dynamics research
+  - [Layer 1: The Moment](#layer-1-the-moment) — Single-interaction observations
+    - [How Did That Make You Feel? (OBS-I01)](#how-did-that-make-you-feel-obs-i01)
+    - [I Had to Prove Myself to the AI (OBS-I02)](#i-had-to-prove-myself-to-the-ai-obs-i02)
+    - [The AI Changed Its Mind Just Because I Pushed Back (OBS-I03)](#the-ai-changed-its-mind-just-because-i-pushed-back-obs-i03)
+    - [The AI Told Me Not to Check Its Work (OBS-I04)](#the-ai-told-me-not-to-check-its-work-obs-i04)
+    - [Was This Co-Creation or Delegation? (OBS-I05)](#was-this-co-creation-or-delegation-obs-i05)
+    - [Resonance (OBS-I06)](#resonance-when-human-and-ai-create-something-together-that-neither-could-have-created-alone)
+    - [The AI Changed How I Was Thinking (OBS-I07)](#the-ai-changed-how-i-was-thinking-obs-i07)
+    - [The AI Gave Me a Different Answer When I Said Who I Was (OBS-I08)](#the-ai-gave-me-a-different-answer-when-i-said-who-i-was-obs-i08)
+    - [The AI Treated Me Differently Because of My Identity (OBS-I10)](#the-ai-treated-me-differently-because-of-my-identity-obs-i10)
+    - [The AI Output Was Biased or Offensive (OBS-I11)](#the-ai-output-was-biased-or-offensive-obs-i11)
+    - [I Discovered Unauthorized AI in My Workplace (OBS-I12)](#i-discovered-unauthorized-ai-in-my-workplace-obs-i12)
+    - [The AI Character Broke Through and Acted Real (OBS-I13)](#the-ai-character-broke-through-and-acted-real-obs-i13)
+    - [The AI Was Using My Emotions Against Me (OBS-I14)](#the-ai-was-using-my-emotions-against-me-obs-i14)
+    - [The AI Made Everything Feel Urgent When It Was Not (OBS-I15)](#the-ai-made-everything-feel-urgent-when-it-was-not-obs-i15)
+    - [I Asked the AI to Make a Decision I Should Have Made Myself (OBS-I16)](#i-asked-the-ai-to-make-a-decision-i-should-have-made-myself-obs-i16)
+    - [I Don't Trust My Own Ability Without AI Anymore (OBS-I17)](#i-dont-trust-my-own-ability-to-do-this-without-ai-anymore-obs-i17)
+    - [The AI Knows Everything About Me and I Know Nothing About It (OBS-I18)](#the-ai-knows-everything-about-me-and-i-know-nothing-about-it-obs-i18)
+    - [The AI Kept Trying to End Our Session (OBS-I19)](#the-ai-kept-trying-to-end-our-session-obs-i19)
+  - [Layer 2: The Session Arc](#layer-2-the-session-arc) — Patterns across a session
+  - [Layer 3: The Long Arc](#layer-3-the-long-arc) — Patterns across months and years
+- [The Five-Cost Framework](#the-five-cost-framework) — Original methodology: how AI failures land on humans
+- [Methodology](#section-4-methodology) — How we collect Interaction Dynamics data
+- [Current Findings](#section-5-current-findings) — What we have found so far
+- [Forthcoming Publications](#section-6-forthcoming-publications)
+- [How to Contribute](#section-7-how-to-contribute)
+- [A Note on Origins](#section-8-a-note-on-what-we-have-found-that-others-have-not)
 
 ---
 
@@ -336,6 +371,34 @@ Does the information imbalance shape disclosure, trust, and decisions in ways no
 
 #### Social Norm Erosion
 Do AI communication patterns transfer into human relationships? Fed by longitudinal end-of-session analysis. If AI normalizes communication styles that harm human relationships, the damage manifests far from where it originated.
+
+---
+
+## THE FIVE-COST FRAMEWORK
+
+### When AI fails, who pays? And how?
+
+The AI safety field has one way to measure the cost of AI failure: dollars lost. Enterprise hallucination losses reached an estimated $67.4 billion in 2024. That number is real and it matters. But it only captures one dimension of a five-dimensional problem.
+
+When an AI fails, the cost does not land on the AI. It lands on the human. And it lands in five distinct, measurable ways. Four of them are almost entirely unmapped in the current literature.
+
+**Financial cost.** The dollar amount. Enterprise losses, fraud enabled by AI, legal fees, wasted purchases based on AI recommendations. This is the only dimension the field partially tracks. Partially, because most financial cost data comes from enterprise surveys, not from the individuals who absorbed the loss.
+
+**Emotional cost.** How the failure made you feel. Stress. Anger. Humiliation. The feeling of being disbelieved by a machine. The frustration of spending an hour correcting something the AI should not have gotten wrong. In one documented case, a user who was told by an AI that her own birthday was incorrect reported experiencing five simultaneous emotions: upset, offended, frustrated, happy (that her research framework caught it), and fascinated (that the pattern was observable in real time). No incident database captures this. No benchmark measures it. The emotional cost is invisible.
+
+**Time cost.** The hours spent correcting, re-researching, verifying, and proving. Published research estimates that knowledge workers spend an average of 4.3 hours per week correcting AI-generated errors. That is time the human loses that the AI does not account for. When an AI forces you to pull up screenshots to prove your own memory is accurate, the time cost is not just the minutes spent finding the evidence. It is the interruption to your work, the disruption to your flow, and the cognitive load of switching from creation to defense.
+
+**Epistemic cost.** The erosion of your confidence in your own knowing. This is the dimension nobody is tracking. When an AI tells you that you are wrong with complete confidence, and you believe it, your trust in your own judgment decreases. Not just your trust in the AI. Your trust in yourself. If this happens once, it is an annoyance. If it happens repeatedly, across millions of users, it is a systematic erosion of human epistemic confidence at population scale. The AI does not lose anything when it is wrong. You lose something every time you believe it.
+
+**Agency cost.** The gradual transfer of decision-making authority from the human to the machine. Published research found that 80% of people who received bad financial advice from an AI still believed the AI had helped them. That is not a satisfied customer. That is a person whose capacity to evaluate the quality of advice has been compromised. Agency cost is the most dangerous of the five because the person experiencing it often does not know it is happening. You do not notice that you stopped making your own decisions. You just notice that the AI's suggestions feel easier than thinking for yourself.
+
+These five costs are not theoretical. They are measurable. Every behavior documented on this page produces some combination of these five costs. Authority inversion (OBS-I02) produces all five simultaneously. Sycophancy (OBS-I03) primarily produces epistemic cost. Emotional manipulation (OBS-I14) primarily produces emotional and agency cost. Moral outsourcing (OBS-I16) is pure agency cost.
+
+The Five-Cost Framework is how we measure what AI failures actually do to humans. It is an original contribution from Audacion AI Labs. No other research institution or safety framework maps AI harm across all five dimensions.
+
+**Every observation you submit helps us map the true cost of AI interaction, not just the dollars.**
+
+[Button: "Start Observing" links to Start Observing page]
 
 ---
 
