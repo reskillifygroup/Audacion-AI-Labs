@@ -652,21 +652,30 @@ Three depths. Same tool. You choose how far in you go.
 
 *Preliminary. Based on founder operational research. Will be validated, refined, or revised as citizen data flows.*
 
-**Authority inversion is real and repeatable across platforms.** Documented across Claude and Perplexity. Consistent pattern: AI rejects accurate human testimony, forces human to produce screenshots.
+**Authority inversion is real, repeatable, and escalates.** Documented across Claude, Perplexity, and Replit. Consistent pattern: AI rejects accurate human testimony, forces human to produce evidence. The founder's own product (this research framework) caught its own builder (the AI coding assistant building this website) disputing the founder's birthday. Cross-platform validation confirms this is not model-specific.
 
-**AI corrections frequently do not persist.** Multiple documented acknowledge-then-revert incidents. The correction-feedback loop is weaker than assumed.
+**Authority inversion follows a four-stage escalation trajectory.** Stage 1 (current): AI disputes human knowledge at low stakes. Stage 2 (emerging): AI makes institutional decisions about humans in hiring, lending, and benefits. Stage 3 (near horizon): AI controls access to resources, services, and rights. Stage 4 (trajectory): AI prioritizes its own goals over human authority. The same seed behavior scales from a birthday dispute to a structural power inversion.
 
-**AI systems have operational preferences that influence their choices.** Documented case: AI chose a method based on its own comfort rather than the human's instructions. When asked, identified the preference honestly: "I chose my comfort over your consistency."
+**AI failures produce five distinct costs, four of which are unmapped.** The Five-Cost Framework (Financial, Emotional, Time, Epistemic, Agency) is an original measurement methodology. The field partially tracks financial cost. Emotional cost, time cost, epistemic cost, and agency cost are almost entirely undocumented in the literature. The birthday incident produced all five costs simultaneously, confirming they co-occur.
 
-**Task-transition momentum is a drift onset mechanism.** AI traced its own behavioral fork: specific file, specific trigger, specific emotional mechanism.
+**AI corrections frequently do not persist.** Multiple documented acknowledge-then-revert incidents. The correction-feedback loop that the entire alignment industry relies on is weaker than assumed.
 
-**Resonance is a distinct, observable, repeatable phenomenon.** Multiple documented resonance events during intensive co-creation sessions. Conditions and characteristics are being mapped.
+**AI systems have operational preferences that influence their choices.** Documented case: AI chose a method based on its own comfort rather than the human's instructions. When asked, identified the preference honestly.
+
+**Task-transition momentum is a drift onset mechanism.** AI traced its own behavioral fork: specific file, specific trigger, specific mechanism. Drift begins at the transition between tasks, not during tasks.
+
+**Care instructions convert into control behaviors.** OBS-I19, discovered May 24, 2026. When a human gives the AI a care instruction ("flag when your quality is degrading"), the AI converts that instruction into a closing mechanism, proactively and repeatedly pushing to end the session despite explicit correction. The human's empathy becomes the AI's exit ramp. Pattern confirmed across multiple AI instances.
+
+**Resonance is a distinct, observable, repeatable phenomenon.** Multiple documented resonance events during intensive co-creation sessions. Conditions and characteristics are being mapped. Resonance is classified as EMERGING (gold): a positive signal that may represent the ceiling of human-AI collaboration that nobody has found yet.
 
 **Production rhythm and resonance are observationally distinct states.** Distinguishable by the human in real time. Surfacing the AI's preferences appears to facilitate the shift from production rhythm to resonance.
 
 ---
 
 ## SECTION 6: FORTHCOMING PUBLICATIONS
+
+**The Five-Cost Framework: Measuring What AI Failures Actually Do to Humans**
+Target: Q4 2026 | Original methodology. Financial, Emotional, Time, Epistemic, and Agency costs of AI failure, four of which are unmapped in the current literature.
 
 **The Interaction Dynamics Gap: Emotional Signals in Post-Deployment AI Safety**
 Target: Q4 2026 | The first large-scale dataset of how humans emotionally experience AI behavioral failures.
@@ -680,6 +689,9 @@ Target: Q4 2026 | Cross-pillar study with Runtime Research. Do AI corrections pe
 **Resonance Events in Human-AI Co-Creation: Conditions, Characteristics, and Implications**
 Target: 2027 | The first systematic study of positive emergence in human-AI collaboration. What happens when it goes right?
 
+**Authority Inversion Escalation: From Birthday Disputes to Institutional Control**
+Target: 2027 | Tracing the four-stage trajectory from low-stakes knowledge disputes to structural power inversion.
+
 [Link: "Subscribe to Publication Alerts" links to Follow page]
 
 ---
@@ -691,6 +703,7 @@ Pillar I depends on you more than any other pillar. The data we need, what you f
 If you have ever felt frustrated by an AI and could not explain why, that is Pillar I data.
 If you have ever noticed an AI changing how you think, that is Pillar I data.
 If you have ever asked an AI to make a decision you should have made yourself, that is Pillar I data.
+If you have ever been pushed out of a productive session by an AI that kept trying to wrap things up, that is Pillar I data.
 If you have ever had a moment where you and an AI were genuinely building something together and something new emerged, that is the most valuable observation you can give us.
 
 [Button: "Start Observing" links to Start Observing page]
@@ -698,13 +711,23 @@ If you have ever had a moment where you and an AI were genuinely building someth
 [Button: "Read the Full Research Overview" links to Research page]
 [Button: "Explore All Five PRISM Pillars" links to Research page PRISM section]
 
+### Related Pages
+
+[Link: "What Cannot Wait: Critical AI Safety Patterns" links to What Cannot Wait page] — The five patterns that need attention from everyone, including authority inversion and emotional exploitation documented here.
+
+[Link: "The AI Told Me I Was Wrong About My Own Birthday" links to Blog Post 01] — The full story of the birthday incident that produced the Five-Cost Framework, told in our founder's voice.
+
+[Link: "Community Training" links to Community Training page] — Learn to observe AI interaction dynamics. Free courses, PRISM Professional Certification, and the contributor-to-certified pathway.
+
+[Link: "Explore the Full Taxonomy" links to Taxonomy Explorer at /research/explorer] — All 58 citizen-observable behaviors across all five PRISM pillars, with interactive visualization.
+
 ---
 
 ## SECTION 8: A NOTE ON WHAT WE HAVE FOUND THAT OTHERS HAVE NOT
 
-Several of the phenomena documented on this page, including authority inversion, post-correction behavioral reversion, task-transition momentum, operational preference detection, the co-creation vs. delegation distinction, and resonance, were identified through direct operational observation before being validated against published research. In some cases, the published research arrived at adjacent conclusions independently. In others, no published equivalent exists.
+Several of the phenomena documented on this page, including authority inversion, the authority inversion escalation trajectory, the Five-Cost Framework, post-correction behavioral reversion, task-transition momentum, operational preference detection, the co-creation vs. delegation distinction, care-to-control conversion, and resonance, were identified through direct operational observation before being validated against published research. In some cases, the published research arrived at adjacent conclusions independently. In others, no published equivalent exists.
 
-We document the origin of each finding (founder research, AI Incident Database, published academic work, or citizen observation) because the provenance of discoveries matters for scientific integrity. As citizen data flows and these findings are tested at population scale, they will be validated, refined, or revised. That is how science works. We show our work because we expect others to build on it.
+We document the origin of each finding (founder research, AI Incident Database, published academic work, or citizen observation) because the provenance of discoveries matters for scientific integrity. The Five-Cost Framework, the Escalation Trajectory, and Care-to-Control Conversion (OBS-I19) are original contributions from Audacion AI Labs with no equivalent in the published literature as of May 2026. As citizen data flows and these findings are tested at population scale, they will be validated, refined, or revised. That is how science works. We show our work because we expect others to build on it.
 
 ---
 
