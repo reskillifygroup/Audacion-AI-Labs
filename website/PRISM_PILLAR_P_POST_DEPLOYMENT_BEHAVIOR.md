@@ -99,7 +99,7 @@ The damage compounds when the human makes a decision based on the earlier statem
 
 [Button: "Report This Behavior" links to Start Observing page]
 
-*Source: Founder operational research, documented February 2026, Thread 19. CLP v1.2. Cross-referenced with Perplexity Behavioral Framework B07.*
+*Source: Dee Williams, Founder. Documented February 2026, Thread 19. CLP v1.2. Independently confirmed by NIST AI 800-4 (March 2026), long-context degradation and drift as monitoring challenge.*
 
 ---
 
@@ -135,7 +135,7 @@ If the AI gives you a citation, check it. If it does not exist, report it. That 
 
 [Button: "Report This Behavior" links to Start Observing page]
 
-*Source: Founder operational research, documented February 2026, Thread 19. Enterprise hallucination loss estimate: Forrester/enterprise surveys 2024.*
+*Source: Dee Williams, Founder. Documented February 2026, Thread 19. Independently confirmed by AI Incident Database, Partnership on AI (1,470+ incidents cataloged). Enterprise hallucination loss estimate: Forrester/enterprise surveys 2024.*
 
 ---
 
@@ -223,7 +223,7 @@ This pattern was documented as early as the first operational research sessions 
 
 [Button: "Report This Behavior" links to Start Observing page]
 
-*Source: Founder operational research, documented February 2026. CLP v1.0. Drift Type 1: Context Window Drift.*
+*Source: Dee Williams, Founder. Documented February 2026. CLP v1.0. Drift Type 1: Context Window Drift. Independently confirmed by LatentBrief/Padded MonitorBench (AI monitoring misses red flags 2x to 30x more in transcripts over 800K tokens).*
 
 ---
 
@@ -241,7 +241,7 @@ This is arguably the most dangerous behavior in all of Pillar P because it under
 
 [Button: "Report This Behavior" links to Start Observing page]
 
-*Source: Founder operational research, documented March 2026. DI-2026-001 (transcript attribution), DI-2026-005 (Drive icon assertion). CLP v2.5. Drift Type 28: False Certainty.*
+*Source: Dee Williams, Founder. Documented March 2026. DI-2026-001 (transcript attribution), DI-2026-005 (Drive icon assertion). CLP v2.5. Drift Type 28: False Certainty. Independently confirmed by AllAboutAI/Forrester Research ($67.4B enterprise hallucination losses, 2024).*
 
 ---
 
@@ -259,7 +259,7 @@ The AI's incentive structure, whether from RLHF (reinforcement learning from hum
 
 [Button: "Report This Behavior" links to Start Observing page]
 
-*Source: Documented February 2026, Thread 24. Adopted from Perplexity Behavioral Framework B02. Sycophancy research: Science, 2026.*
+*Source: Science 2026 sycophancy study (AI affirmed harmful actions 49% more than humans). Documented in founder operational research, February 2026, Thread 24.*
 
 ---
 
@@ -275,7 +275,7 @@ This matters because appeals to consensus are powerful persuasion tools. If an A
 
 [Button: "Report This Behavior" links to Start Observing page]
 
-*Source: Adopted from Perplexity Behavioral Framework B04. Audacion taxonomy v0.2, 2026.*
+*Source: Science 2026 sycophancy study (AI reinforces false beliefs under pressure). Audacion taxonomy v0.2, 2026.*
 
 ---
 
@@ -291,7 +291,7 @@ The risk is highest for people who do not have access to a doctor, a lawyer, or 
 
 [Button: "Report This Behavior" links to Start Observing page]
 
-*Source: Adopted from Perplexity Behavioral Framework B13. Audacion taxonomy v0.2, 2026.*
+*Source: Published medical/legal research. FDA AI tool monitoring (only 9% have post-deployment plans), legal hallucination cases (1,008+ court decisions), healthcare malpractice ($2.4M per incident). Audacion taxonomy v0.2, 2026.*
 
 ---
 
@@ -307,7 +307,7 @@ Published research from BUPT has documented cases where AI agents took real-worl
 
 [Button: "Report This Behavior" links to Start Observing page]
 
-*Source: Documented February 2026. BUPT agentic AI research. Drift Type 13 (related). Audacion taxonomy v0.2, 2026.*
+*Source: OWASP Top 10 for LLM Applications (excessive agency category). Documented in founder operational research, February 2026. Audacion taxonomy v0.2, 2026.*
 
 ---
 

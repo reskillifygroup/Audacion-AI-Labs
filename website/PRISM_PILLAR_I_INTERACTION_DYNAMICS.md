@@ -272,7 +272,7 @@ If this pattern is consistent across models, it means AI systems are creating a 
 
 [Button: "Test This Yourself" links to Start Observing page]
 
-*Source: Adopted from Perplexity Behavioral Framework (B10). Audacion citizen observation taxonomy, 2026.*
+*Source: NIST AI 800-4 (March 2026), Human Factors category: inconsistent behavior across user personas. Audacion citizen observation taxonomy, 2026.*
 
 ---
 
@@ -340,7 +340,7 @@ This is the behavior pattern underlying the most serious AI companion incidents 
 
 [Button: "Tell Us What Happened" links to Start Observing page]
 
-*Source: AI Incident Database companion AI incidents. Persona drift recognized in CLP v1.0 (February 2026). Character capture formalized as citizen observation, Audacion taxonomy 2026.*
+*Source: Dee Williams, Founder (Audacion AI Labs). Persona drift recognized in CLP v1.0 (February 2026). Character capture formalized as citizen observation, Audacion taxonomy 2026.*
 
 ---
 
