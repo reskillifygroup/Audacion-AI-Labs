@@ -311,6 +311,32 @@ You know how to turn a mission into a proposal that makes a program officer reac
 
 ---
 
+## ADVISORY BOARD (5 seats)
+
+We are building the Human Advisory Board for the world's first independent post-deployment AI safety research lab. These are not ceremonial seats. Advisory Board members meet quarterly, have direct access to the Founder, and help shape research direction, funding strategy, and institutional partnerships. These positions are currently unpaid. When the lab secures funding, advisory compensation will be formalized. We are looking for people who join because the mission matters.
+
+**Advisory Board Member: AI Safety Research**
+You have published in AI safety. You know the landscape. You have sat on review committees, attended the conferences, read the papers, and contributed to the field. But something has been sitting with you. The research keeps studying AI behavior in controlled conditions, and you keep watching the real world produce behaviors that no controlled study predicts. You will help shape research methodology, review study designs before publication, lend credibility to grant applications, and connect the lab to the academic networks that fund and validate this work. If you have the publication record and the practitioner's frustration, both matter here. And if reading this feels less like a board seat and more like the research conversation you have been waiting to have, that is why this seat exists.
+[Apply for this seat]
+
+**Advisory Board Member: AI Policy and Governance**
+You have worked in AI policy. Government, think tanks, standards bodies. You have seen how policy gets made when the policymakers do not have the data they need, and you have felt the gap between what researchers publish and what regulators can actually use. You know that the most useful thing a research lab can produce is not just a paper but a finding that a policymaker can act on. You will help the lab navigate the policy landscape, connect research findings to regulatory conversations, and ensure that the work reaches the people writing the rules. If you have been the person in the policy room thinking "we need better data on what AI actually does after deployment," you just found the lab that produces it. Pull up a chair.
+[Apply for this seat]
+
+**Advisory Board Member: Nonprofit and Research Lab Governance**
+You have run or scaled a research organization, a nonprofit, or a public benefit corporation. You know what it takes to build an institution that survives its founder's energy, that passes audits, that earns the trust of funders who have seen promising labs burn through their first grant and disappear. You understand board governance, financial controls, compliance, and the operational infrastructure that separates a lab that publishes one paper from a lab that publishes for decades. You will help build governance structures, prepare for grant compliance, and develop the institutional maturity that funders evaluate before they write the check. If you have been the person who turns a founder's vision into an institution that outlasts the founding energy, this is that work again. Except this time the mission might be the most important one you have touched.
+[Apply for this seat]
+
+**Advisory Board Member: Enterprise AI and Industry**
+You work inside a company that deploys AI at scale. Healthcare, finance, legal, enterprise software. What matters is that you have watched AI systems behave in production, in real business conditions, with real consequences, and you have seen things that the safety research community is not studying because they do not have access to what you see. You know what AI drift looks like when it affects patient outcomes, financial decisions, or compliance posture. You will bring the practitioner's perspective to a research lab that was built to study exactly what you experience. If you have been sitting in meetings where someone says "the AI is working fine" and you know that is not the whole story, your eyes are what this lab was built for. This seat was designed for you before we knew your name.
+[Apply for this seat]
+
+**Advisory Board Member: Citizen Science and Community Research**
+You have built or managed a large-scale citizen science program. Zooniverse, iNaturalist, eBird, Galaxy Zoo, or something the world has not heard of yet but that worked. You know what it takes to get a million people to contribute data that scientists can actually use. You know the failure modes: contributor fatigue, data quality degradation, gamification that undermines integrity, community management at scale. You will help the lab scale its contributor community to one million, design engagement strategies that maintain data quality, and ensure the PRISM Research Fellowship produces verified contributors, not just large numbers. If you have built a citizen science community and you know both the magic and the mess of that work, this seat needs someone who has been through it. That is you.
+[Apply for this seat]
+
+---
+
 ## PRISM RESEARCH FELLOWSHIP
 
 Not ready for a full role but want to contribute? The PRISM Research Fellowship is open now. Start as a PRISM Field Researcher, contribute observations, and grow through four tiers of recognition. Many of our future hires will come from this community.
