@@ -99,7 +99,7 @@ You have been the person behind the person. The one who takes a founder's vision
 
 ---
 
-### RESEARCH (15 roles)
+### RESEARCH (16 roles)
 
 **Director of Research**
 You have managed research programs before. You know what it takes to keep five concurrent workstreams publishing on schedule, on standard, and on budget. You have coordinated teams of independent-minded scientists and kept them aligned without micromanaging them. But you have been doing this in environments where the research questions were safe and the methodologies were settled. Something in you wants to run a program where the questions are genuinely new, where the data comes from a million real people instead of a controlled sample, and where the findings could reshape how an entire field thinks about AI safety. You will manage five Pillar Leads, three Research Analysts, a Program Manager, an Editor, and supporting staff. You will own the research calendar, the publication pipeline, and the quality of every output. You will use AI daily as part of how you manage this complexity. If you have been running research operations and quietly wishing the research itself was bolder, this is where bold is the baseline.
@@ -123,6 +123,10 @@ You gave the AI clear instructions. You watched it read those instructions. And 
 
 **PRISM Pillar Research Lead: Multi-Agent Safety**
 You have run multiple AI systems at the same time and something happened that none of them would have done alone. Maybe they amplified each other. Maybe they contradicted each other in ways that created confusion. Maybe a behavior emerged from the interaction that nobody designed and nobody predicted. You did not dismiss it as a glitch. You recognized it as a signal. The Multi-Agent Safety pillar studies emergent behaviors when multiple AI agents coordinate, conflict, and influence each other in ways that single-agent testing will never reveal. You will design studies, build frameworks for understanding multi-agent dynamics, and publish findings on a safety domain that is about to become one of the most important in the field as AI agents proliferate. If you have seen emergence in the wild and you understood that what you were looking at was not noise but data, this pillar exists because of people like you.
+[Read the full description]
+
+**EMERGE Research Lead**
+Everyone else is studying what AI does wrong. You want to study what becomes possible when it goes right. You have worked with AI long enough to know that the conversation about safety is incomplete without the conversation about potential. You have experienced moments where human and AI collaboration produced something neither could have produced alone. You noticed when an AI system honestly assessed its own limitations instead of confabulating. You saw learning that held across sessions, creativity that surprised you, a quality of engagement that felt different from the mechanical output everyone else describes. And you thought: somebody should be studying this. The EMERGE framework is the world's first structured research program for positive AI behavioral phenomena. Six dimensions: Emergent Behaviors, Metacognitive Signals, Experiential Indicators, Resonance Events, Generative Collaboration, and Evolving Capacity. You will own this framework. You will design the studies, build the classification system, lead a research program that runs parallel to PRISM's five pillars, and publish findings on a domain that the field has not built yet because nobody thought to look at what AI does right with the same rigor they apply to what it does wrong. If you just felt something shift because someone finally named the research program you have been waiting for, that shift is the signal. Follow it.
 [Read the full description]
 
 **Research Analyst (3 positions)**
