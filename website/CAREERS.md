@@ -1,5 +1,5 @@
 # Audacion AI Labs — Careers Page Content
-## Updated Draft | May 19, 2026
+## Updated Draft | May 30, 2026
 
 ---
 

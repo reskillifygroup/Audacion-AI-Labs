@@ -1,5 +1,5 @@
 # Audacion AI Labs — Training and Learning Page Content
-## First Draft | May 19, 2026
+## First Draft | May 30, 2026
 
 ---
 
